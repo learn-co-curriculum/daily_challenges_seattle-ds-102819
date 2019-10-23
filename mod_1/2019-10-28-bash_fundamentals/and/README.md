@@ -1,0 +1,1 @@
+> And then, the perfect capper, finishing with a song called “The End”, which features alternating guitar solos from John, George, and Paul and a drum solo from Ringo. - Source: https://genius.com/The-beatles-the-end-lyrics.

@@ -1,0 +1,1 @@
+> Seamlessly transitioning from the first track on Sgt. Peppers Lonely Hearts Club Band, “With A Little Help From My Friends” features lead vocals from drummer Ringo Starr as his Sgt. Peppers character Billy Shears. - Source: https://genius.com/The-beatles-with-a-little-help-from-my-friends-lyrics.
