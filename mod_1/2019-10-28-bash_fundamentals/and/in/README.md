@@ -1,0 +1,1 @@
+> It was an ideal curtain call from a band that just a few years earlier had been a bunch of punk kids from a nowheresville called Liverpool with more confidence than skill. - Source: https://genius.com/The-beatles-the-end-lyrics
