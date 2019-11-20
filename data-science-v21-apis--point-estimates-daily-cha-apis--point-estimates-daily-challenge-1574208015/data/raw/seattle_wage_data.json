@@ -1,0 +1,1000 @@
+[{"department":"Office for Civil Rights","last_name":"Lockhart","first_name":"Mariko","job_title":"Executive3","hourly_rate":"80.95"}
+,{"department":"Fire Department","last_name":"Dawson","first_name":"Iris","job_title":"Permit Tech","hourly_rate":"31.63"}
+,{"department":"Fire Department","last_name":"Sutey","first_name":"Debra","job_title":"Fire Battalion Chief-91.4 Hrs","hourly_rate":"64.41"}
+,{"department":"Fire Department","last_name":"Canez","first_name":"Aaron","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Berry","first_name":"David","job_title":"Fire Lieut-90.46 Hrs","hourly_rate":"45.3"}
+,{"department":"Fire Department","last_name":"Castaneda","first_name":"Leonardo","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.76"}
+,{"department":"Fire Department","last_name":"Ballew","first_name":"Sean","job_title":"Fireftr-MU-90.46 Hrs","hourly_rate":"45.12"}
+,{"department":"Fire Department","last_name":"Lee","first_name":"Amy","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Newbrey","first_name":"Jason","job_title":"Fire Lieut-90.46 Hrs","hourly_rate":"44.56"}
+,{"department":"Fire Department","last_name":"Benzschawel","first_name":"Nicholas","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"45.12"}
+,{"department":"Fire Department","last_name":"Tate","first_name":"Felton","job_title":"Fireftr-90.46 Hrs","hourly_rate":"34.58"}
+,{"department":"Fire Department","last_name":"Bell","first_name":"Glenn","job_title":"Fireftr-90.46 Hrs","hourly_rate":"41.61"}
+,{"department":"Fire Department","last_name":"Andersen","first_name":"Duane","job_title":"Fireftr-90.46 Hrs","hourly_rate":"41.61"}
+,{"department":"Fire Department","last_name":"McQuade","first_name":"Monteith","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"45.86"}
+,{"department":"Fire Department","last_name":"Peterson","first_name":"Daniel","job_title":"Fireboat Pilot-90.46 Hrs","hourly_rate":"54.45"}
+,{"department":"Fire Department","last_name":"Bingham","first_name":"Olin","job_title":"Fireftr-90.46 Hrs","hourly_rate":"32.73"}
+,{"department":"Fire Department","last_name":"Cummings","first_name":"Brian","job_title":"Fire Capt-90.46 Hrs","hourly_rate":"54.45"}
+,{"department":"Fire Department","last_name":"Cox","first_name":"James","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Parker","first_name":"Anthony","job_title":"Fireftr-90.46 Hrs","hourly_rate":"34.58"}
+,{"department":"Fire Department","last_name":"Sosa","first_name":"Jose","job_title":"Fireftr-90.46 Hrs","hourly_rate":"32.73"}
+,{"department":"Fire Department","last_name":"Brennan","first_name":"Francis","job_title":"Fire Lieut-TRT Dive-90.46 Hrs","hourly_rate":"51.03"}
+,{"department":"Fire Department","last_name":"Roney","first_name":"Liam","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"41.61"}
+,{"department":"Fire Department","last_name":"Palmer","first_name":"Kurt","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"45.12"}
+,{"department":"Fire Department","last_name":"Hotchkiss","first_name":"Erik","job_title":"Fire Battalion Chief-91.4 Hrs","hourly_rate":"64.41"}
+,{"department":"Fire Department","last_name":"McGarrity","first_name":"Craig","job_title":"Fireftr-90.46 Hrs","hourly_rate":"32.73"}
+,{"department":"Fire Department","last_name":"Hearne","first_name":"Emmanuel","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Kieta","first_name":"Daniel","job_title":"Fireftr-90.46 Hrs","hourly_rate":"42.53"}
+,{"department":"Fire Department","last_name":"Pedras","first_name":"David","job_title":"Fireftr-ParamedTechSr-90.46","hourly_rate":"49.37"}
+,{"department":"Fire Department","last_name":"Ellis","first_name":"Ryan","job_title":"Fireftr-ParamedTechSr-90.46","hourly_rate":"48.45"}
+,{"department":"Fire Department","last_name":"Taylor","first_name":"Cheryl","job_title":"Fireftr-ParamedTechSr-90.46","hourly_rate":"50.85"}
+,{"department":"Fire Department","last_name":"Webber","first_name":"Roger","job_title":"Fireftr-HM-90.46 Hrs","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Woestwin","first_name":"Sam","job_title":"Fireftr-VRT-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Mondragon","first_name":"Ronald","job_title":"Fire Chief,Dep-91.4 Hrs","hourly_rate":"76.26"}
+,{"department":"Fire Department","last_name":"Thomas","first_name":"Teresa","job_title":"Fireftr-Dispatcher-84 Hrs","hourly_rate":"49.58"}
+,{"department":"Fire Department","last_name":"Carpenter","first_name":"Janae","job_title":"Fireftr-Dispatcher-84 Hrs","hourly_rate":"47.8"}
+,{"department":"Fire Department","last_name":"Bollinger","first_name":"Michael","job_title":"Fire Lieut-Trng Div-80 Hrs","hourly_rate":"57.5"}
+,{"department":"Fire Department","last_name":"Schaapveld","first_name":"Joshua","job_title":"Fire Lieut-Trng Div-80 Hrs","hourly_rate":"57.5"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Schade","first_name":"Rachael","job_title":"Personnel Anlyst,Sr","hourly_rate":"47.13"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Inch","first_name":"Pamela","job_title":"StratAdvsr2,Exempt","hourly_rate":"59.55"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Martin","first_name":"Teresa","job_title":"Exec Asst","hourly_rate":"42.92"}
+,{"department":"Human Services Department","last_name":"Demas","first_name":"Sarah","job_title":"Human Svcs Coord","hourly_rate":"32.17"}
+,{"department":"Human Services Department","last_name":"Santor","first_name":"Samantha","job_title":"Manager2,Human Svcs","hourly_rate":"50.66"}
+,{"department":"Human Services Department","last_name":"Birnbaums","first_name":"Zenta","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Marquardt","first_name":"Suzanne","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Brielmaier","first_name":"Irmtraut","job_title":"Counslr *","hourly_rate":"29.29"}
+,{"department":"Human Services Department","last_name":"Dhillon","first_name":"Parminderjit","job_title":"Human Svcs Prgm Supv,Sr","hourly_rate":"38.98"}
+,{"department":"Human Services Department","last_name":"Walsh","first_name":"Sean","job_title":"Manager2,Human Svcs","hourly_rate":"49.91"}
+,{"department":"Human Services Department","last_name":"Falsetta","first_name":"Ricky","job_title":"Prgm Intake Rep","hourly_rate":"31.04"}
+,{"department":"Office of Housing","last_name":"Barker","first_name":"Lacey","job_title":"Com Dev Spec","hourly_rate":"36.13"}
+,{"department":"Construction & Inspections","last_name":"Spencer","first_name":"Angela","job_title":"StratAdvsr2,Engrng&Plans Rev","hourly_rate":"45.48"}
+,{"department":"Construction & Inspections","last_name":"Tate","first_name":"Stephanie","job_title":"Personnel Spec","hourly_rate":"36.13"}
+,{"department":"Construction & Inspections","last_name":"Khuon","first_name":"Povvibol","job_title":"Actg Tech II-BU","hourly_rate":"26.09"}
+,{"department":"Construction & Inspections","last_name":"Hammon","first_name":"James","job_title":"Housing/Zoning Tech,Sr","hourly_rate":"32.08"}
+,{"department":"Construction & Inspections","last_name":"Taylor-Reed","first_name":"Yvonne","job_title":"Housing/Zoning Tech","hourly_rate":"26.98"}
+,{"department":"Construction & Inspections","last_name":"Rasmussen","first_name":"Tim","job_title":"Manager2,Engrng&Plans Rev","hourly_rate":"57.15"}
+,{"department":"Construction & Inspections","last_name":"Ketzenberg","first_name":"Justin","job_title":"Pressure Systs Inspector(J)","hourly_rate":"38.89"}
+,{"department":"Construction & Inspections","last_name":"Zook","first_name":"Robert","job_title":"Elecl Insp,Sr/EleclPlnExmExp","hourly_rate":"48.04"}
+,{"department":"Construction & Inspections","last_name":"McHegg","first_name":"Jessica","job_title":"Permit Process Leader","hourly_rate":"49.91"}
+,{"department":"Construction & Inspections","last_name":"Jacobson","first_name":"Raymond","job_title":"Mech Plans Engr,Sr","hourly_rate":"57.81"}
+,{"department":"Construction & Inspections","last_name":"Greenleaf","first_name":"Dean","job_title":"Bldg Plans Examiner","hourly_rate":"45.26"}
+,{"department":"Construction & Inspections","last_name":"Edwards","first_name":"Judith","job_title":"Bldg Plans Examiner(E)","hourly_rate":"41.06"}
+,{"department":"Construction & Inspections","last_name":"Shaw","first_name":"John","job_title":"StratAdvsr2,Engrng&Plans Rev","hourly_rate":"57"}
+,{"department":"Education & Early Learning","last_name":"So","first_name":"Kit","job_title":"Actg Tech I-BU","hourly_rate":"25.17"}
+,{"department":"Intergovernment Relations","last_name":"Swab","first_name":"Cheryl","job_title":"Executive2","hourly_rate":"68.59"}
+,{"department":"Information Technology","last_name":"Bell","first_name":"Eric","job_title":"Info Technol Prof B-BU","hourly_rate":"58.76"}
+,{"department":"Information Technology","last_name":"Swayam","first_name":"Venkata","job_title":"Info Technol Prof A,Exempt","hourly_rate":"69.005"}
+,{"department":"Information Technology","last_name":"Young","first_name":"Rodney","job_title":"Info Technol Prof B-BU","hourly_rate":"53.04"}
+,{"department":"Information Technology","last_name":"Grissom","first_name":"Allen","job_title":"Civil Engrng Spec,Assoc","hourly_rate":"44.51"}
+,{"department":"Information Technology","last_name":"Faustino","first_name":"Rogerick","job_title":"Info Technol Prof B-BU","hourly_rate":"57.896"}
+,{"department":"Information Technology","last_name":"Cram","first_name":"Destiny","job_title":"Info Technol Prof B-BU","hourly_rate":"44.834"}
+,{"department":"Information Technology","last_name":"Wright","first_name":"Andrew","job_title":"Video Spec I *","hourly_rate":"28.74"}
+,{"department":"Information Technology","last_name":"Patrick","first_name":"Lori","job_title":"StratAdvsr2,Exempt","hourly_rate":"48.972"}
+,{"department":"Information Technology","last_name":"Flores","first_name":"Nino","job_title":"Info Technol Prof C-BU","hourly_rate":"49.275"}
+,{"department":"Information Technology","last_name":"Adams","first_name":"Robby","job_title":"Info Technol Prof B-BU","hourly_rate":"54.273"}
+,{"department":"Information Technology","last_name":"Sapieszko","first_name":"Laura","job_title":"Info Technol Prof B-BU","hourly_rate":"54.437"}
+,{"department":"Information Technology","last_name":"Carter","first_name":"Lynette","job_title":"Info Technol Prof B-BU","hourly_rate":"54.746"}
+,{"department":"Information Technology","last_name":"Zemanek","first_name":"Greg","job_title":"Info Technol Prof B-BU","hourly_rate":"53.378"}
+,{"department":"Information Technology","last_name":"Rust","first_name":"Julien","job_title":"Info Technol Prof C-BU","hourly_rate":"46.415"}
+,{"department":"Information Technology","last_name":"Chou","first_name":"Julie","job_title":"Info Technol Systs Anlyst","hourly_rate":"42.92"}
+,{"department":"Information Technology","last_name":"Coppess","first_name":"Scott","job_title":"Info Technol Prof B-BU","hourly_rate":"52.959"}
+,{"department":"Information Technology","last_name":"Daly","first_name":"Joshua","job_title":"Info Technol Systs Anlyst","hourly_rate":"42.92"}
+,{"department":"Information Technology","last_name":"Demers","first_name":"Susan","job_title":"Mgmt Systs Anlyst","hourly_rate":"40.48"}
+,{"department":"Information Technology","last_name":"Meyer","first_name":"Sharlyn","job_title":"Info Technol Prof B-BU *","hourly_rate":"52"}
+,{"department":"Information Technology","last_name":"Smith","first_name":"Gregory","job_title":"Info Technol Prof A,Exempt","hourly_rate":"70.181"}
+,{"department":"Information Technology","last_name":"Davidson","first_name":"Sharon","job_title":"Info Technol Prof B-BU *","hourly_rate":"55.96"}
+,{"department":"Information Technology","last_name":"Johnson","first_name":"David","job_title":"Info Technol Prof B-BU","hourly_rate":"59.569"}
+,{"department":"Information Technology","last_name":"Peterson","first_name":"Joy","job_title":"Info Technol Prof B-BU","hourly_rate":"60.536"}
+,{"department":"Information Technology","last_name":"West","first_name":"Bonnie","job_title":"Info Technol Prof A,Exempt","hourly_rate":"59.386"}
+,{"department":"Information Technology","last_name":"Rocheford","first_name":"Gregg","job_title":"StratAdvsr2,Info Technol","hourly_rate":"51.375"}
+,{"department":"Information Technology","last_name":"Bui","first_name":"Ngoc","job_title":"Fin Anlyst,Sr","hourly_rate":"46.13"}
+,{"department":"Legislative Department","last_name":"Kerssen","first_name":"Julie","job_title":"StratAdvsr-Legislative","hourly_rate":"44.2049"}
+,{"department":"Legislative Department","last_name":"Polata","first_name":"Janet","job_title":"Legislative Info Supv","hourly_rate":"40.48"}
+,{"department":"Legislative Department","last_name":"Hasaan","first_name":"Nabaal","job_title":"Cooperative Intern-W/S *","hourly_rate":"16.56"}
+,{"department":"Legislative Department","last_name":"Samuels","first_name":"Jennifer","job_title":"Legislative Asst","hourly_rate":"45.084"}
+,{"department":"Legislative Department","last_name":"Dall'Osto","first_name":"Alisha","job_title":"Legislative Asst","hourly_rate":"34"}
+,{"department":"Mayor's Office","last_name":"Abbott","first_name":"Cooper","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Mayor's Office","last_name":"Shkerich Blair","first_name":"Kyla","job_title":"StratAdvsr2,Exempt","hourly_rate":"55.08"}
+,{"department":"Seattle Public Utilities","last_name":"Noyes","first_name":"Bryan","job_title":"Maint Laborer *","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Westphal","first_name":"Helen","job_title":"Wtr Treatment Op,Sr","hourly_rate":"34.96"}
+,{"department":"Seattle Public Utilities","last_name":"Aumoeualogo","first_name":"Ryan","job_title":"Wtr Pipe Wkr","hourly_rate":"33.66"}
+,{"department":"Seattle Public Utilities","last_name":"Martos II","first_name":"Christopher","job_title":"Wtr Pipe Wkr Sr-WDM II","hourly_rate":"37.53"}
+,{"department":"Seattle Public Utilities","last_name":"Sanabria Casado","first_name":"Gisela","job_title":"Manager3,Utils","hourly_rate":"65.298"}
+,{"department":"Seattle Public Utilities","last_name":"Martin","first_name":"Danny","job_title":"Wtr Pipe Wkr","hourly_rate":"31.13"}
+,{"department":"Seattle Public Utilities","last_name":"Combs","first_name":"Edward","job_title":"Wtr Pipe Wkr","hourly_rate":"31.13"}
+,{"department":"Seattle Public Utilities","last_name":"Antoci","first_name":"Tica","job_title":"Stat Maint Mach","hourly_rate":"36.75"}
+,{"department":"Seattle Public Utilities","last_name":"Campbell","first_name":"Joshua","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Public Utilities","last_name":"Kirupakaran","first_name":"Karrthik","job_title":"Civil Engr,Assoc","hourly_rate":"43.68"}
+,{"department":"Seattle Public Utilities","last_name":"Anderson","first_name":"Elizabeth","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Public Utilities","last_name":"Hwang","first_name":"Pao Tsun","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Public Utilities","last_name":"Lippold","first_name":"Richard","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Public Utilities","last_name":"Wong","first_name":"Kami","job_title":"Act Exec","hourly_rate":"48.09"}
+,{"department":"Seattle Public Utilities","last_name":"Hubbell","first_name":"Gregory","job_title":"Util Act Rep II","hourly_rate":"31.69"}
+,{"department":"Seattle Public Utilities","last_name":"Dunkin","first_name":"Christina","job_title":"Util Act Rep Trne","hourly_rate":"24.28"}
+,{"department":"Seattle Public Utilities","last_name":"Plantz","first_name":"Nicholas","job_title":"Util Act Rep Trne *","hourly_rate":"23.32"}
+,{"department":"Seattle Public Utilities","last_name":"Jovanovich","first_name":"Marilynn","job_title":"Admin Staff Asst","hourly_rate":"35.43"}
+,{"department":"Seattle Public Utilities","last_name":"Stringfield IV","first_name":"Leamon","job_title":"Meter Reader","hourly_rate":"25.89"}
+,{"department":"Seattle Public Utilities","last_name":"Keophilavanh","first_name":"Andrew","job_title":"Meter Reader","hourly_rate":"26.9"}
+,{"department":"Seattle Public Utilities","last_name":"Woods","first_name":"Nancy","job_title":"Sfty&Hlth Spec,Sr-BU","hourly_rate":"47.13"}
+,{"department":"Seattle Public Utilities","last_name":"Haigh","first_name":"Christopher","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Public Utilities","last_name":"Tran","first_name":"Chuong","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Public Utilities","last_name":"Polk","first_name":"Jabrii","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Public Utilities","last_name":"Horton","first_name":"Julie","job_title":"Admin Staff Anlyst","hourly_rate":"40.48"}
+,{"department":"Seattle Public Utilities","last_name":"Ristau","first_name":"Barbara","job_title":"Personnel Spec,Sr","hourly_rate":"40.48"}
+,{"department":"Seattle Public Utilities","last_name":"Sorensen","first_name":"Peter","job_title":"Personnel Spec,Sr","hourly_rate":"40.48"}
+,{"department":"Seattle Public Utilities","last_name":"McGuire","first_name":"Letitia","job_title":"Labor Relations Coord","hourly_rate":"54.71"}
+,{"department":"Seattle Public Utilities","last_name":"Rogers","first_name":"Karen","job_title":"Economist","hourly_rate":"46.13"}
+,{"department":"Seattle Public Utilities","last_name":"Tran","first_name":"Kim","job_title":"Accountant *","hourly_rate":"31.87"}
+,{"department":"Seattle Public Utilities","last_name":"Raya","first_name":"Victoria","job_title":"StratAdvsr1,Utils","hourly_rate":"47.58"}
+,{"department":"Seattle Public Utilities","last_name":"Grodnik-Nagle","first_name":"Ann","job_title":"StratAdvsr2,Utils","hourly_rate":"61.303"}
+,{"department":"Seattle Public Utilities","last_name":"Laschober","first_name":"Paula","job_title":"Executive3","hourly_rate":"95.59"}
+,{"department":"Seattle Public Utilities","last_name":"Arreola Jr","first_name":"Romulo","job_title":"Drainage&Wstwtr Lead Wkr CII","hourly_rate":"35.16"}
+,{"department":"Seattle Public Utilities","last_name":"Andres","first_name":"Virgilio","job_title":"Drainage&Wstwtr Lead Wkr CII","hourly_rate":"35.16"}
+,{"department":"Seattle Public Utilities","last_name":"Oflaherty","first_name":"Cory","job_title":"Drainage&Wstwtr Coll Wkr CI","hourly_rate":"31.33"}
+,{"department":"Seattle Public Utilities","last_name":"Arciaga","first_name":"Carlos","job_title":"Drainage&Wstwtr Coll Wkr CI","hourly_rate":"31.33"}
+,{"department":"Seattle Public Utilities","last_name":"Honeycutt","first_name":"Michelle","job_title":"Mgmt Systs Anlyst,Sr","hourly_rate":"48.09"}
+,{"department":"Seattle City Light","last_name":"DeWees","first_name":"Andrea","job_title":"Conserv Policy Anlyst","hourly_rate":"42.92"}
+,{"department":"Seattle City Light","last_name":"Vickers","first_name":"Deborah","job_title":"Elecl Engrng Spec,Asst III","hourly_rate":"40.76"}
+,{"department":"Seattle City Light","last_name":"Flores","first_name":"Kyler","job_title":"Elecl Engrng Spec Supv","hourly_rate":"52.55"}
+,{"department":"Seattle City Light","last_name":"Neuansourinh","first_name":"Ponet","job_title":"Elecl Pwr Systs Engr","hourly_rate":"62.26"}
+,{"department":"Seattle City Light","last_name":"Vanderpool","first_name":"Laura","job_title":"Technicial Writer","hourly_rate":"34.62"}
+,{"department":"Seattle City Light","last_name":"Strong","first_name":"Andrew","job_title":"Electric Util Exec 3,Dir","hourly_rate":"90.22"}
+,{"department":"Seattle City Light","last_name":"O'Brien","first_name":"Kevin","job_title":"Mgmt Systs Anlyst","hourly_rate":"36.13"}
+,{"department":"Seattle City Light","last_name":"Mikkelson","first_name":"Mark","job_title":"StratAdvsr2,Fin,Bud,&Actg-BU","hourly_rate":"54.0094"}
+,{"department":"Seattle City Light","last_name":"Joyce","first_name":"Thomas","job_title":"Elecl Pwr Systs Engr,Prin","hourly_rate":"64.61"}
+,{"department":"Seattle City Light","last_name":"Williams","first_name":"Patrick","job_title":"Elec Engrng Des Spec,Asst III","hourly_rate":"43.14"}
+,{"department":"Seattle City Light","last_name":"O'Baya","first_name":"Raul","job_title":"Capital Prjts Coord,Sr","hourly_rate":"54.9"}
+,{"department":"Seattle City Light","last_name":"Li","first_name":"Jiayi","job_title":"Admin Spec II","hourly_rate":"25.17"}
+,{"department":"Seattle City Light","last_name":"Quin","first_name":"Holly","job_title":"Capital Prjts Coord,Asst","hourly_rate":"44.45"}
+,{"department":"Seattle City Light","last_name":"Campbell","first_name":"Robert","job_title":"Carpenter","hourly_rate":"33.78"}
+,{"department":"Seattle City Light","last_name":"Pham","first_name":"Cao","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Strandberg","first_name":"Eric","job_title":"Enrgy Mgmt Anlyst,Sr","hourly_rate":"53.07"}
+,{"department":"Seattle City Light","last_name":"Cuba","first_name":"Michael","job_title":"Enrgy Mgmt Anlyst,Sr","hourly_rate":"53.07"}
+,{"department":"Seattle City Light","last_name":"Seelig","first_name":"Aliza","job_title":"Executive2","hourly_rate":"67.6016"}
+,{"department":"Seattle City Light","last_name":"Johanson","first_name":"Michael","job_title":"Pwr Marketer-BU","hourly_rate":"56.67"}
+,{"department":"Seattle City Light","last_name":"Espenhorst","first_name":"Eric","job_title":"StratAdvsr2,Utils-BU","hourly_rate":"54.6924"}
+,{"department":"Seattle City Light","last_name":"Hernandez","first_name":"Ricky","job_title":"Civil Engrng Spec,Assoc","hourly_rate":"41.2"}
+,{"department":"Seattle City Light","last_name":"Kirschbaum","first_name":"Daniel","job_title":"Mech Engr Supv","hourly_rate":"63.1"}
+,{"department":"Seattle City Light","last_name":"Rush","first_name":"Caleb","job_title":"Elecl Pwr Systs Engr","hourly_rate":"62.26"}
+,{"department":"Seattle City Light","last_name":"Anderson","first_name":"Jeffrey","job_title":"Hydroelec Op II","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Cann","first_name":"Bruce","job_title":"Comms Elctn Jnywrk-In Chg-Skt","hourly_rate":"54.04"}
+,{"department":"Seattle City Light","last_name":"March","first_name":"Brandt","job_title":"Generation Supv-BU","hourly_rate":"60.91"}
+,{"department":"Seattle City Light","last_name":"Johnson","first_name":"James","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Seattle City Light","last_name":"Williams","first_name":"Kara","job_title":"StratAdvsr2,Fin,Bud,&Actg-BU","hourly_rate":"51.8681"}
+,{"department":"Seattle City Light","last_name":"Louie","first_name":"Serena","job_title":"Prjt Fund&Agreemts Coord","hourly_rate":"40.48"}
+,{"department":"Seattle City Light","last_name":"Levin","first_name":"Julia","job_title":"Accountant,Prin","hourly_rate":"46.13"}
+,{"department":"Seattle City Light","last_name":"Yorita","first_name":"Mariko","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Seattle City Light","last_name":"Hay","first_name":"Kelsey","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Seattle City Light","last_name":"Zhang","first_name":"Daniel","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Seattle City Light","last_name":"McDonald","first_name":"Benjamin","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Lee","first_name":"Andrew","job_title":"Cblspl-Net Area","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"York","first_name":"Robert","job_title":"Cblspl CC-Net Area","hourly_rate":"56.66"}
+,{"department":"Seattle City Light","last_name":"Thrush","first_name":"Jonah","job_title":"Cblspl-Net Area","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Mutchler","first_name":"Dave","job_title":"Elecl Constr&Maint Supv-BU","hourly_rate":"61.39"}
+,{"department":"Seattle City Light","last_name":"Sidell","first_name":"Rachel","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Heck","first_name":"Samual","job_title":"Lnwkr Aprn","hourly_rate":"39.94"}
+,{"department":"Seattle City Light","last_name":"Williams","first_name":"Darius","job_title":"Lnwkr Pre-Aprn","hourly_rate":"33.72"}
+,{"department":"Seattle City Light","last_name":"Noble","first_name":"Kevin","job_title":"Line C CC","hourly_rate":"58.36"}
+,{"department":"Seattle City Light","last_name":"Rodriguez","first_name":"Henry","job_title":"Lnwkr Aprn","hourly_rate":"39.94"}
+,{"department":"Seattle City Light","last_name":"Weitz","first_name":"Craig","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Gibbons","first_name":"Mike","job_title":"Line C CC","hourly_rate":"58.36"}
+,{"department":"Seattle City Light","last_name":"Rich Jr","first_name":"Harry","job_title":"Capital Prjts Coord,Sr","hourly_rate":"54.9"}
+,{"department":"Seattle City Light","last_name":"Pearson","first_name":"Annette","job_title":"Manager2,Utils-BU","hourly_rate":"59.8622"}
+,{"department":"Seattle City Light","last_name":"Sy","first_name":"Nick","job_title":"Meter Elctn","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Gushiken","first_name":"Andrew","job_title":"Meter Elctn","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Winchester","first_name":"Hillary","job_title":"StratAdvsr1,CSPI&P-BU","hourly_rate":"45"}
+,{"department":"Seattle City Light","last_name":"Udarbe","first_name":"Maria","job_title":"Actg Tech II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle City Light","last_name":"Hall","first_name":"Sheree","job_title":"Admin Spec II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle City Light","last_name":"Quaife","first_name":"Karen","job_title":"Elecl Svc Rep,Sr","hourly_rate":"39.86"}
+,{"department":"Planning & Comm Development","last_name":"Holmes","first_name":"James","job_title":"StratAdvsr1,General Govt","hourly_rate":"50.532"}
+,{"department":"Planning & Comm Development","last_name":"Flemister","first_name":"Lauren","job_title":"StratAdvsr2,General Govt","hourly_rate":"54"}
+,{"department":"Planning & Comm Development","last_name":"Thomas","first_name":"Patrice","job_title":"Plng&Dev Spec,Sr","hourly_rate":"42.92"}
+,{"department":"Parks & Recreation","last_name":"Townsell","first_name":"Christopher","job_title":"Work Trng Enrollee,Tier II *","hourly_rate":"16"}
+,{"department":"Parks & Recreation","last_name":"Cross","first_name":"Aaron","job_title":"Work Trng Enrollee,Tier II *","hourly_rate":"18.19"}
+,{"department":"Parks & Recreation","last_name":"Browne","first_name":"Michael","job_title":"Rec Prgm Coord","hourly_rate":"37.59"}
+,{"department":"Parks & Recreation","last_name":"Tietze-Di Toro","first_name":"Aiyana","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Tierney","first_name":"Siobhan","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Jochheim-Atkins","first_name":"Melanie","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Smith","first_name":"Vela","job_title":"Rec Attendant","hourly_rate":"20.51"}
+,{"department":"Parks & Recreation","last_name":"Kennedy","first_name":"Akuilia","job_title":"Rec Prgm Spec","hourly_rate":"28.74"}
+,{"department":"Parks & Recreation","last_name":"Lim","first_name":"Damien","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Voros","first_name":"Amy","job_title":"Rec Attendant","hourly_rate":"17.59"}
+,{"department":"Parks & Recreation","last_name":"Johnson","first_name":"Garrett","job_title":"Rec Attendant","hourly_rate":"16.4"}
+,{"department":"Parks & Recreation","last_name":"Seltz","first_name":"Amber","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Clemons","first_name":"Benetize","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Fulton","first_name":"Aalijah","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Lee","first_name":"Jean","job_title":"Rec Leader","hourly_rate":"28.91"}
+,{"department":"Parks & Recreation","last_name":"Home","first_name":"Kira","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"McCrea","first_name":"Nyal","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Hubble","first_name":"Gabriella","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Heuscher-Dotson","first_name":"Jenna","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Volk","first_name":"Maria","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Xu","first_name":"JiaWei","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Tran","first_name":"Liann","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Jaramillo","first_name":"Steve","job_title":"Constr&Maint Equip Op *","hourly_rate":"32.61"}
+,{"department":"Parks & Recreation","last_name":"Cromartie","first_name":"Joseph","job_title":"Laborer","hourly_rate":"23.58"}
+,{"department":"Parks & Recreation","last_name":"Silva","first_name":"Andrew","job_title":"Grounds Maint Lead Wkr","hourly_rate":"28.49"}
+,{"department":"Parks & Recreation","last_name":"Do","first_name":"Hoang","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Parks & Recreation","last_name":"Dagenais","first_name":"Joshua","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Parks & Recreation","last_name":"Harris","first_name":"Michael","job_title":"Laborer","hourly_rate":"23.58"}
+,{"department":"Parks & Recreation","last_name":"Todd","first_name":"Carla","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Parks & Recreation","last_name":"Espinosa","first_name":"Juan","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Parks & Recreation","last_name":"Perry","first_name":"Lee","job_title":"Grounds Maint Lead Wkr","hourly_rate":"27.42"}
+,{"department":"Parks & Recreation","last_name":"Tunney","first_name":"Leigh","job_title":"Gardener *","hourly_rate":"25.17"}
+,{"department":"Parks & Recreation","last_name":"Newman","first_name":"Vanessa","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Parks & Recreation","last_name":"Adams","first_name":"Christopher","job_title":"Golf Course Tech","hourly_rate":"25.17"}
+,{"department":"Parks & Recreation","last_name":"Shults","first_name":"Bradley","job_title":"Golf Course Groundskeeper I *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Dicken","first_name":"Gregory","job_title":"Golf Course Tech","hourly_rate":"27.18"}
+,{"department":"Parks & Recreation","last_name":"Hopkins","first_name":"Reggie","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Parks & Recreation","last_name":"Wayman  Jr","first_name":"Jerry","job_title":"Plumber","hourly_rate":"38.1"}
+,{"department":"Parks & Recreation","last_name":"Tuipulotu","first_name":"Siosifa","job_title":"Cement Finisher-Parks Facils","hourly_rate":"33.78"}
+,{"department":"Parks & Recreation","last_name":"Foss","first_name":"Kenneth","job_title":"Carpenter","hourly_rate":"33.78"}
+,{"department":"Parks & Recreation","last_name":"Said","first_name":"Fuadi","job_title":"Admin Staff Asst","hourly_rate":"34.07"}
+,{"department":"Parks & Recreation","last_name":"Ebken","first_name":"Elizabeth","job_title":"Tennis Instructor *","hourly_rate":"22.08"}
+,{"department":"Parks & Recreation","last_name":"Bach","first_name":"Stefan","job_title":"Tennis Instructor *","hourly_rate":"22.08"}
+,{"department":"Parks & Recreation","last_name":"MacQuarrie Jr","first_name":"Irvin","job_title":"Tennis Instructor *","hourly_rate":"22.08"}
+,{"department":"Parks & Recreation","last_name":"Cuellar","first_name":"Gladys","job_title":"Parks Special Events Schedlr","hourly_rate":"28.2"}
+,{"department":"Parks & Recreation","last_name":"Kadushin","first_name":"Joseph","job_title":"Rec Leader *","hourly_rate":"18"}
+,{"department":"Parks & Recreation","last_name":"Cook","first_name":"Darryl","job_title":"StratAdvsr1,Parks&Rec","hourly_rate":"44"}
+,{"department":"Parks & Recreation","last_name":"Canizaro","first_name":"Mark","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Merkley","first_name":"Gary","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Schwindeller","first_name":"Michael","job_title":"Capital Prjts Coord","hourly_rate":"46.16"}
+,{"department":"Parks & Recreation","last_name":"Keaton","first_name":"Jasmine","job_title":"Capital Prjts Coord,Asst","hourly_rate":"41.06"}
+,{"department":"Parks & Recreation","last_name":"Buchanan","first_name":"Shanna","job_title":"Mgmt Systs Anlyst,Asst","hourly_rate":"31.63"}
+,{"department":"Parks & Recreation","last_name":"Plympton Stoops","first_name":"Kerrie","job_title":"Mgmt Systs Anlyst Supv","hourly_rate":"50.78"}
+,{"department":"Parks & Recreation","last_name":"Lo","first_name":"Ivy","job_title":"Actg Tech III-BU","hourly_rate":"29.89"}
+,{"department":"Parks & Recreation","last_name":"Loseff","first_name":"Donald","job_title":"Admin Staff Asst *","hourly_rate":"35.43"}
+,{"department":"Parks & Recreation","last_name":"Geiger","first_name":"Jeanette","job_title":"Exec Asst","hourly_rate":"48.09"}
+,{"department":"Finance & Admin Services","last_name":"Thai","first_name":"Thao","job_title":"Rates Mgmt Anlyst,Sr","hourly_rate":"49.91"}
+,{"department":"Finance & Admin Services","last_name":"Nguyen","first_name":"Ngoc","job_title":"Actg Tech II-BU","hourly_rate":"27.18"}
+,{"department":"Finance & Admin Services","last_name":"Grove","first_name":"Kiersten","job_title":"Executive3","hourly_rate":"85.5"}
+,{"department":"Finance & Admin Services","last_name":"Nichols","first_name":"Jeremy","job_title":"Mech Engr Supv","hourly_rate":"63.1"}
+,{"department":"Finance & Admin Services","last_name":"Rowe","first_name":"Lela","job_title":"Cust Svc Rep","hourly_rate":"27.49"}
+,{"department":"Finance & Admin Services","last_name":"Gossett","first_name":"Nicole","job_title":"Cust Svc Rep","hourly_rate":"26.45"}
+,{"department":"Finance & Admin Services","last_name":"Hooks","first_name":"Dwayne","job_title":"Cust Svc Rep,Sr","hourly_rate":"27.49"}
+,{"department":"Finance & Admin Services","last_name":"Hollinger","first_name":"Adam","job_title":"Licenses&Standards Inspector","hourly_rate":"37.32"}
+,{"department":"Finance & Admin Services","last_name":"Emerson","first_name":"George","job_title":"StratAdvsr2,Exempt","hourly_rate":"55.18"}
+,{"department":"Finance & Admin Services","last_name":"Warner","first_name":"Krystal","job_title":"Claims Adjuster-FAS","hourly_rate":"45.45"}
+,{"department":"Finance & Admin Services","last_name":"Rayburn","first_name":"Linda","job_title":"Remittance Proc Tech","hourly_rate":"25.17"}
+,{"department":"Finance & Admin Services","last_name":"Cunha","first_name":"Joseph","job_title":"Executive2","hourly_rate":"64.868"}
+,{"department":"Finance & Admin Services","last_name":"Valdez","first_name":"Javier","job_title":"StratAdvsr2,Exempt","hourly_rate":"56.157"}
+,{"department":"Finance & Admin Services","last_name":"Stubblefield","first_name":"David","job_title":"StratAdvsr1,PC&RM","hourly_rate":"53.039"}
+,{"department":"Finance & Admin Services","last_name":"Munoz","first_name":"Salvador","job_title":"Buyer","hourly_rate":"40.48"}
+,{"department":"Finance & Admin Services","last_name":"de Give","first_name":"Michael","job_title":"StratAdvsr1,PC&RM","hourly_rate":"42.744"}
+,{"department":"Finance & Admin Services","last_name":"Drake","first_name":"Alan","job_title":"Auto Mechanic,Sr","hourly_rate":"37.72"}
+,{"department":"Finance & Admin Services","last_name":"Underwood","first_name":"James","job_title":"Equip Svcr","hourly_rate":"25.39"}
+,{"department":"Finance & Admin Services","last_name":"Nelson","first_name":"Kevin","job_title":"Janitor-FAS/CL","hourly_rate":"21.61"}
+,{"department":"Finance & Admin Services","last_name":"Thomson","first_name":"James","job_title":"Property Mgmt Spec","hourly_rate":"50.78"}
+,{"department":"Finance & Admin Services","last_name":"Hamilton","first_name":"Hillary","job_title":"Manager3 *","hourly_rate":"64.539"}
+,{"department":"Finance & Admin Services","last_name":"Cudaback","first_name":"Althea","job_title":"Events Svc Rep,Sr *","hourly_rate":"34.76"}
+,{"department":"Arts & Culture","last_name":"Iwasaki","first_name":"Marcia","job_title":"Arts Prgm Spec","hourly_rate":"36.92"}
+,{"department":"Arts & Culture","last_name":"Eng","first_name":"Steven","job_title":"Accountant,Sr","hourly_rate":"41.06"}
+,{"department":"City Budget Office","last_name":"Walha","first_name":"Tina","job_title":"Executive2","hourly_rate":"72.24"}
+,{"department":"Seattle Dept of Transportation","last_name":"Tully","first_name":"Tyrone","job_title":"Parking Pay Stat Tech","hourly_rate":"32.17"}
+,{"department":"Seattle Dept of Transportation","last_name":"Mamroth","first_name":"Eric","job_title":"Plng&Dev Spec,Sr","hourly_rate":"48.09"}
+,{"department":"Seattle Dept of Transportation","last_name":"Rula","first_name":"Kelly","job_title":"StratAdvsr2,General Govt","hourly_rate":"54.12"}
+,{"department":"Seattle Dept of Transportation","last_name":"Swedman","first_name":"Jay","job_title":"Signal Elctn V","hourly_rate":"53.14"}
+,{"department":"Seattle Dept of Transportation","last_name":"Nielsen","first_name":"Kevin","job_title":"Signal Elctn,Journey-Level","hourly_rate":"52.13"}
+,{"department":"Seattle Dept of Transportation","last_name":"Roberts","first_name":"Kerry","job_title":"Installation Maint Wkr","hourly_rate":"28.49"}
+,{"department":"Seattle Dept of Transportation","last_name":"Yamabe","first_name":"Amy","job_title":"Civil Engr Supv","hourly_rate":"63.1"}
+,{"department":"Seattle Dept of Transportation","last_name":"Roberts","first_name":"Ibiba","job_title":"Capital Prjts Coord,Sr","hourly_rate":"52.92"}
+,{"department":"Seattle Dept of Transportation","last_name":"Bauder","first_name":"Russell","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Dept of Transportation","last_name":"Gurkewitz","first_name":"Sandra","job_title":"StratAdvsr1,General Govt","hourly_rate":"49.537"}
+,{"department":"Seattle Dept of Transportation","last_name":"Triplett","first_name":"Tammy","job_title":"Admin Spec II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle Dept of Transportation","last_name":"Sheldon","first_name":"Elizabeth","job_title":"Executive2","hourly_rate":"74.26"}
+,{"department":"Seattle Dept of Transportation","last_name":"Burgesser","first_name":"David","job_title":"Transp Plnr,Sr","hourly_rate":"46.13"}
+,{"department":"Seattle Dept of Transportation","last_name":"Dougherty","first_name":"Brian","job_title":"StratAdvsr2,General Govt","hourly_rate":"58.508"}
+,{"department":"Seattle Dept of Transportation","last_name":"Beaty","first_name":"Caylen","job_title":"StratAdvsr2,Engrng&Plans Rev","hourly_rate":"55.75"}
+,{"department":"Seattle Dept of Transportation","last_name":"Enrico","first_name":"Daniel","job_title":"StratAdvsr3,Engrng&Plans Rev","hourly_rate":"64.48"}
+,{"department":"Seattle Dept of Transportation","last_name":"Curtis","first_name":"Justin","job_title":"Maint Laborer,Sr-Traffic","hourly_rate":"27.93"}
+,{"department":"Seattle Dept of Transportation","last_name":"McFarland","first_name":"Ross","job_title":"Civil Engrng Spec,Sr","hourly_rate":"46.61"}
+,{"department":"Seattle Dept of Transportation","last_name":"Tagata","first_name":"Carlito","job_title":"Cement Finisher","hourly_rate":"31.51"}
+,{"department":"Seattle Dept of Transportation","last_name":"Kerwin","first_name":"Taylor","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Seattle Dept of Transportation","last_name":"Taufa","first_name":"Mailefihi","job_title":"Asphalt Raker","hourly_rate":"30.31"}
+,{"department":"Seattle Dept of Transportation","last_name":"Anderson","first_name":"Peter","job_title":"Tree Trimmer","hourly_rate":"29.99"}
+,{"department":"Seattle Dept of Transportation","last_name":"Dominguez","first_name":"Jose","job_title":"Facilities Maint Wkr","hourly_rate":"29.56"}
+,{"department":"Seattle Dept of Transportation","last_name":"Anderson","first_name":"Johnny","job_title":"Maint Laborer *","hourly_rate":"26.09"}
+,{"department":"Seattle Dept of Transportation","last_name":"Hoye","first_name":"Dustin","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Seattle Dept of Transportation","last_name":"Sioson","first_name":"Crispina","job_title":"Sfty&Hlth Spec,Sr","hourly_rate":"43.73"}
+,{"department":"Seattle Dept of Transportation","last_name":"Watts","first_name":"Randi","job_title":"Space Plnr","hourly_rate":"36.13"}
+,{"department":"Seattle Dept of Transportation","last_name":"Todd","first_name":"Esther","job_title":"Accountant,Prin","hourly_rate":"41.06"}
+,{"department":"Seattle Dept of Transportation","last_name":"Jones","first_name":"Ryan","job_title":"Personnel Spec *","hourly_rate":"32.17"}
+,{"department":"Seattle Dept of Transportation","last_name":"Williams","first_name":"Aminah","job_title":"Admin Staff Anlyst","hourly_rate":"38.98"}
+,{"department":"Seattle Center","last_name":"Lee","first_name":"Jae","job_title":"Capital Prjts Coord,Chief","hourly_rate":"56.95"}
+,{"department":"Seattle Center","last_name":"Maciejewski","first_name":"Wojciech","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Center","last_name":"Bogstie","first_name":"John","job_title":"Laborer","hourly_rate":"23.58"}
+,{"department":"Seattle Center","last_name":"Busby","first_name":"Zenethie","job_title":"Janitor-SC/Parks/SPU *","hourly_rate":"20.07"}
+,{"department":"Seattle Center","last_name":"Martin","first_name":"Philip","job_title":"Janitor-SC/Parks/SPU","hourly_rate":"21.61"}
+,{"department":"Seattle Center","last_name":"Tsegay","first_name":"Amsale","job_title":"Actg Tech II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle Center","last_name":"Rutt","first_name":"Teddy","job_title":"Security Ofcr *","hourly_rate":"23.55"}
+,{"department":"Seattle Center","last_name":"Miller","first_name":"Lance","job_title":"Manager3,Fin,Bud,&Actg","hourly_rate":"56.76"}
+,{"department":"Seattle Center","last_name":"Burke","first_name":"John","job_title":"Sound&Video Equip Tech","hourly_rate":"35.71"}
+,{"department":"Seattle Center","last_name":"Stinson","first_name":"Melissa","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Dupras","first_name":"Edward","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Garfield","first_name":"Greg","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Baca","first_name":"Johnny","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Davis","first_name":"Gregory","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Nealer","first_name":"Robert","job_title":"Usher *","hourly_rate":"16.11"}
+,{"department":"Seattle Center","last_name":"Tescher","first_name":"Michele","job_title":"Usher *","hourly_rate":"16.11"}
+,{"department":"Seattle Center","last_name":"Memmel","first_name":"Joseph","job_title":"Adms Employee","hourly_rate":"19.09"}
+,{"department":"Seattle Center","last_name":"Halstead","first_name":"Chris","job_title":"Usher *","hourly_rate":"16.11"}
+,{"department":"Seattle Center","last_name":"Israel","first_name":"Thomas","job_title":"Executive2","hourly_rate":"67.04"}
+,{"department":"Police Department","last_name":"Johnson","first_name":"Madeline","job_title":"Admin Spec II-BU","hourly_rate":"27.18"}
+,{"department":"Police Department","last_name":"Wilske","first_name":"Steven","job_title":"Pol Capt - Permanent Night","hourly_rate":"101.39"}
+,{"department":"Police Department","last_name":"Thomas","first_name":"Hugh","job_title":"Admin Staff Anlyst","hourly_rate":"40.48"}
+,{"department":"Police Department","last_name":"Mack","first_name":"Jordan","job_title":"Admin Staff Anlyst","hourly_rate":"37.59"}
+,{"department":"Police Department","last_name":"Bettesworth","first_name":"Anne","job_title":"Executive1","hourly_rate":"64"}
+,{"department":"Police Department","last_name":"Colin","first_name":"Tricia","job_title":"Exec Asst,Sr","hourly_rate":"49.91"}
+,{"department":"Police Department","last_name":"Hopper Manole","first_name":"Theodore","job_title":"Pol Recruit","hourly_rate":"28.99"}
+,{"department":"Police Department","last_name":"Hatton","first_name":"Lacie","job_title":"Pol Comms Dispatcher II","hourly_rate":"35.28"}
+,{"department":"Police Department","last_name":"Luong","first_name":"Khanh","job_title":"Pol Ofcr-Non Patrol","hourly_rate":"57.96"}
+,{"department":"Police Department","last_name":"Schuur","first_name":"Karmen","job_title":"StratAdvsr2,CL&PS","hourly_rate":"48.2"}
+,{"department":"Police Department","last_name":"Gallegos","first_name":"Michelle","job_title":"Pol Ofcr-Detective","hourly_rate":"56.17"}
+,{"department":"Police Department","last_name":"Atkinson","first_name":"Matthew","job_title":"Pol Ofcr-Detective","hourly_rate":"53.11"}
+,{"department":"Police Department","last_name":"Sobania","first_name":"Kassi","job_title":"Pol Ofcr-Detective","hourly_rate":"49.73"}
+,{"department":"Police Department","last_name":"Jones","first_name":"Nina","job_title":"Pol Ofcr-Detective","hourly_rate":"55.15"}
+,{"department":"Police Department","last_name":"Herring","first_name":"Olivia","job_title":"Victim Advocate","hourly_rate":"31.63"}
+,{"department":"Police Department","last_name":"Brundage Jr","first_name":"Ronald","job_title":"Pol Ofcr-Detective","hourly_rate":"58.22"}
+,{"department":"Police Department","last_name":"Delgado","first_name":"Leslie","job_title":"Admin Spec II-BU","hourly_rate":"27.18"}
+,{"department":"Police Department","last_name":"Lancaster","first_name":"Michael","job_title":"Pol Ofcr-Detective","hourly_rate":"57.2"}
+,{"department":"Police Department","last_name":"Cooper","first_name":"James","job_title":"Pol Ofcr-Detective-Homicide","hourly_rate":"60.26"}
+,{"department":"Police Department","last_name":"Edmundson","first_name":"Melissa","job_title":"Evidence Warehouser,Sr","hourly_rate":"30.72"}
+,{"department":"Police Department","last_name":"Thomas","first_name":"James","job_title":"Latent Print Examiner","hourly_rate":"37.59"}
+,{"department":"Police Department","last_name":"Anderson","first_name":"Kelli","job_title":"Latent Print Examiner,Sr","hourly_rate":"43.73"}
+,{"department":"Police Department","last_name":"Dausner","first_name":"William","job_title":"Pol Ofcr-Patrl","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Downing","first_name":"Brian","job_title":"Pol Lieut","hourly_rate":"80.93"}
+,{"department":"Police Department","last_name":"Cavinta Jr.","first_name":"Pete","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Ferragamo","first_name":"Anthony","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"67.29"}
+,{"department":"Police Department","last_name":"Hunt","first_name":"Brian","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Stribling","first_name":"Anne","job_title":"Pol Ofcr-BWV","hourly_rate":"46.43"}
+,{"department":"Police Department","last_name":"Hayden","first_name":"Raymond","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Zech","first_name":"Roxanne","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Archer","first_name":"Benjamin","job_title":"Pol Ofcr-Patrl","hourly_rate":"54.89"}
+,{"department":"Police Department","last_name":"Raguso","first_name":"Douglas","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"67.29"}
+,{"department":"Police Department","last_name":"Tucker","first_name":"Jason","job_title":"Pol Ofcr-Patrl","hourly_rate":"54.89"}
+,{"department":"Police Department","last_name":"Lee","first_name":"Jason","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"53.87"}
+,{"department":"Police Department","last_name":"DePina","first_name":"Camilo","job_title":"Pol Ofcr-Hostage Neg-Patrl-BWV","hourly_rate":"59.75"}
+,{"department":"Police Department","last_name":"O'Neil","first_name":"John","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"60.43"}
+,{"department":"Police Department","last_name":"Edwards","first_name":"Terrance","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Towne","first_name":"Rolf","job_title":"Pol Lieut","hourly_rate":"84.56"}
+,{"department":"Police Department","last_name":"Gifford","first_name":"Timothy","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"53.87"}
+,{"department":"Police Department","last_name":"Ornelas","first_name":"Juan","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.46"}
+,{"department":"Police Department","last_name":"Lindner","first_name":"David","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"55.91"}
+,{"department":"Police Department","last_name":"Reynolds","first_name":"Anthony","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"53.87"}
+,{"department":"Police Department","last_name":"Weber","first_name":"Bryan","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Cobane","first_name":"Shandy","job_title":"Pol Ofcr-Patrl","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Kane","first_name":"Micheline","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"60"}
+,{"department":"Police Department","last_name":"Semler","first_name":"Keith","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Addae","first_name":"Jabari","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Pine","first_name":"Clark","job_title":"Pol Ofcr-Patrl","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Yrene","first_name":"Robert","job_title":"Pol Ofcr-BWV","hourly_rate":"44.75"}
+,{"department":"Police Department","last_name":"Russey","first_name":"Michael","job_title":"Pol Ofcr-Patrl","hourly_rate":"57.96"}
+,{"department":"Police Department","last_name":"Foley","first_name":"Tori","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Wood","first_name":"Savannah","job_title":"Pol Ofcr-BWV","hourly_rate":"46.43"}
+,{"department":"Police Department","last_name":"Kilcup","first_name":"Eric","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Roy","first_name":"Brittney","job_title":"Pol Ofcr-BWV","hourly_rate":"42.85"}
+,{"department":"Police Department","last_name":"Ross","first_name":"Jason","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"55.91"}
+,{"department":"Police Department","last_name":"Sperry","first_name":"Stephen","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"64.35"}
+,{"department":"Police Department","last_name":"Eugenio","first_name":"David","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Daly","first_name":"Patrick","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"64.35"}
+,{"department":"Police Department","last_name":"Kagelmacher","first_name":"Amy","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Dornay Jr","first_name":"Zsolt","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"60"}
+,{"department":"Police Department","last_name":"Harris","first_name":"Martin","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Beecroft","first_name":"Ryan","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Morasco","first_name":"Anthony","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Abed","first_name":"George","job_title":"Pol Ofcr-Patrl","hourly_rate":"57.96"}
+,{"department":"Police Department","last_name":"Dyment","first_name":"James","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"69.05"}
+,{"department":"Police Department","last_name":"Waters","first_name":"Donald","job_title":"Pol Ofcr-Patrl","hourly_rate":"57.96"}
+,{"department":"Police Department","last_name":"Torrey","first_name":"Terryl","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Skeie","first_name":"Jonathan","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Mangialardi","first_name":"Frank","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Woldeyohannes","first_name":"Elias","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Waltier","first_name":"Scott","job_title":"Pol Ofcr-Motorcycle-BWV","hourly_rate":"59.75"}
+,{"department":"Police Department","last_name":"Cason","first_name":"Elmer","job_title":"Pol Ofcr-DWI-Am/Pm Enf-BWV","hourly_rate":"60"}
+,{"department":"Police Department","last_name":"VanDyke","first_name":"Jerry","job_title":"Marine Equip Svcr","hourly_rate":"38.28"}
+,{"department":"Police Department","last_name":"Waltz","first_name":"William","job_title":"Pol Sgt-Canine-BWV","hourly_rate":"71.1"}
+,{"department":"Police Department","last_name":"Coolidge","first_name":"Marshall","job_title":"Pol Ofcr-SWAT-BWV","hourly_rate":"59.23"}
+,{"department":"Police Department","last_name":"Solan","first_name":"Michael","job_title":"Pol Ofcr-SWAT-BWV","hourly_rate":"59.23"}
+,{"department":"Police Department","last_name":"Morrison","first_name":"Ben","job_title":"Pol Sgt-SWAT-BWV","hourly_rate":"68.17"}
+,{"department":"Police Department","last_name":"Sires","first_name":"David","job_title":"Pol Ofcr- Student","hourly_rate":"41.83"}
+,{"department":"Police Department","last_name":"Doaks","first_name":"Diondre","job_title":"Pol Ofcr- Student","hourly_rate":"47.69"}
+,{"department":"Police Department","last_name":"Shields II","first_name":"John","job_title":"Pol Ofcr- Student","hourly_rate":"47.69"}
+,{"department":"Neighborhoods","last_name":"Nichols","first_name":"Hilary","job_title":"Plng&Dev Spec II","hourly_rate":"38.98"}
+,{"department":"Fire Department","last_name":"Curran","first_name":"Patrick","job_title":"Fireftr-90.46 Hrs","hourly_rate":"30.88"}
+,{"department":"Fire Department","last_name":"Neighbors","first_name":"Jeremie","job_title":"Fireftr-90.46 Hrs","hourly_rate":"30.88"}
+,{"department":"Fire Department","last_name":"Schatz","first_name":"Brian","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Mattson","first_name":"Brian","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Colman","first_name":"Tiffany","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"43.46"}
+,{"department":"Fire Department","last_name":"Witter","first_name":"Babe","job_title":"Fireftr-MU-90.46 Hrs","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Dyer","first_name":"Benjamin","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Helm","first_name":"Joseph","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.76"}
+,{"department":"Fire Department","last_name":"Hartung Jr.","first_name":"William","job_title":"Fireftr-MU-90.46 Hrs","hourly_rate":"40.13"}
+,{"department":"Fire Department","last_name":"Mitchell","first_name":"Gary","job_title":"Fireftr-MU Ap Drvr-90.46 Hrs","hourly_rate":"45.31"}
+,{"department":"Fire Department","last_name":"Freeland","first_name":"Brandon","job_title":"Fireftr-MU-90.46 Hrs","hourly_rate":"43.46"}
+,{"department":"Fire Department","last_name":"Kerns","first_name":"Robert","job_title":"Fire Lieut-MU-90.46 Hrs","hourly_rate":"50.66"}
+,{"department":"Fire Department","last_name":"Savelli","first_name":"Anthony","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Camlin","first_name":"Michael","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Laugen","first_name":"Eric","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"45.12"}
+,{"department":"Fire Department","last_name":"Gilbert","first_name":"Christopher","job_title":"Fireftr-90.46 Hrs","hourly_rate":"41.61"}
+,{"department":"Fire Department","last_name":"Harmon","first_name":"John","job_title":"Fire Battalion Chief-91.4 Hrs","hourly_rate":"66.56"}
+,{"department":"Fire Department","last_name":"Willing","first_name":"James","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Todd","first_name":"Michael","job_title":"Fireftr-TRTDiveDriver-90.46 Hr","hourly_rate":"47.34"}
+,{"department":"Fire Department","last_name":"Cameron","first_name":"Brett","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Adamich","first_name":"Chase","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Hammond","first_name":"Jacob","job_title":"Fireftr-90.46 Hrs","hourly_rate":"36.43"}
+,{"department":"Fire Department","last_name":"Goins Jr","first_name":"Jon","job_title":"Fire Lieut-90.46 Hrs","hourly_rate":"47.15"}
+,{"department":"Fire Department","last_name":"Larson","first_name":"Michael","job_title":"Fireftr-Paramed Tech-90.46 Hrs","hourly_rate":"48.82"}
+,{"department":"Fire Department","last_name":"Engel","first_name":"Bradley","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Martin","first_name":"Matthew","job_title":"Fireftr-HM Ap Drvr-90.46 Hrs","hourly_rate":"46.23"}
+,{"department":"Fire Department","last_name":"Frazier","first_name":"Mark","job_title":"Fire Lieut-90.46 Hrs","hourly_rate":"48.81"}
+,{"department":"Fire Department","last_name":"Barker","first_name":"Cory","job_title":"Fireftr-VRT-90.46 Hrs","hourly_rate":"40.13"}
+,{"department":"Fire Department","last_name":"Bostick","first_name":"Cory","job_title":"Fireftr-VRT Ap Drvr-90.46 Hrs","hourly_rate":"46.23"}
+,{"department":"Fire Department","last_name":"Tarkir","first_name":"Christopher","job_title":"Fireftr-90.46 Hrs","hourly_rate":"34.58"}
+,{"department":"Fire Department","last_name":"Conniff","first_name":"Richard","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Hastings","first_name":"Bryan","job_title":"Executive4","hourly_rate":"104.877"}
+,{"department":"Fire Department","last_name":"Kiminki","first_name":"Paul","job_title":"Fire Equip Tech","hourly_rate":"30.39"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Hornbeck","first_name":"Nicolette","job_title":"Personnel Anlyst,Sr","hourly_rate":"42.06"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Thornton","first_name":"Stefani","job_title":"Personnel Anlyst","hourly_rate":"38.98"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Caldwell","first_name":"Felecia","job_title":"Executive2","hourly_rate":"75.2"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Carrillo","first_name":"Vanessa","job_title":"Personnel Anlyst","hourly_rate":"36.13"}
+,{"department":"Human Services Department","last_name":"Butler","first_name":"Brent","job_title":"StratAdvsr1,Human Svcs","hourly_rate":"47.5"}
+,{"department":"Human Services Department","last_name":"Chow","first_name":"Amy","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Ellison","first_name":"Merle","job_title":"Admin Spec I-BU","hourly_rate":"25.17"}
+,{"department":"Human Services Department","last_name":"Melnik","first_name":"Lyudmila","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Larsen","first_name":"Karen","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Heeney","first_name":"Karen","job_title":"Human Svcs Prgm Supv,Sr","hourly_rate":"43.73"}
+,{"department":"Human Services Department","last_name":"McCaffree","first_name":"Terra","job_title":"Grants&Contracts Spec,Sr","hourly_rate":"36.92"}
+,{"department":"Human Services Department","last_name":"Winston","first_name":"Karen","job_title":"Plng&Dev Spec II","hourly_rate":"42.06"}
+,{"department":"Human Services Department","last_name":"Siegenthaler","first_name":"Susan","job_title":"Grants&Contracts Spec,Sr","hourly_rate":"36.92"}
+,{"department":"Human Services Department","last_name":"Morales","first_name":"Andi","job_title":"Personnel Spec,Sr","hourly_rate":"40.48"}
+,{"department":"Human Services Department","last_name":"Olberding","first_name":"Margaret","job_title":"Manager3,Exempt","hourly_rate":"65"}
+,{"department":"Human Services Department","last_name":"Harris","first_name":"Deborah","job_title":"Admin Staff Asst","hourly_rate":"35.43"}
+,{"department":"Human Services Department","last_name":"Reardon","first_name":"Mark","job_title":"StratAdvsr2 *","hourly_rate":"48"}
+,{"department":"Human Services Department","last_name":"Sevilla-Miranda","first_name":"Brenda","job_title":"Grants&Contracts Spec,Sr","hourly_rate":"35.43"}
+,{"department":"Human Services Department","last_name":"McNeil","first_name":"Lyrik","job_title":"Delivery Wkr *","hourly_rate":"20.48"}
+,{"department":"Office of Housing","last_name":"Carvalho","first_name":"Blanche","job_title":"Actg Tech II-BU","hourly_rate":"27.18"}
+,{"department":"Office of Housing","last_name":"Foley","first_name":"Daniel","job_title":"Manager2,Human Svcs","hourly_rate":"56.979"}
+,{"department":"Office of Housing","last_name":"Olson","first_name":"Laura","job_title":"Manager3,Human Svcs","hourly_rate":"57.051"}
+,{"department":"Office of Housing","last_name":"Mason","first_name":"Charles","job_title":"Com Dev Spec","hourly_rate":"40.48"}
+,{"department":"Office of Housing","last_name":"Boyle","first_name":"Daniel","job_title":"Property Rehab Spec","hourly_rate":"33.76"}
+,{"department":"Construction & Inspections","last_name":"Yuen","first_name":"Ching","job_title":"StratAdvsr1,Fin,Bud,&Actg","hourly_rate":"49.68"}
+,{"department":"Construction & Inspections","last_name":"Lum","first_name":"Gregory","job_title":"Housing/Zoning Inspector","hourly_rate":"39.62"}
+,{"department":"Construction & Inspections","last_name":"Pace","first_name":"Millard","job_title":"Elevator Inspector,Sr(Expert)","hourly_rate":"47.04"}
+,{"department":"Construction & Inspections","last_name":"Howerton","first_name":"Jason","job_title":"Mech Inspector(J)","hourly_rate":"45.45"}
+,{"department":"Construction & Inspections","last_name":"Kennedy","first_name":"Roxanne","job_title":"Site Dev Insp","hourly_rate":"45.45"}
+,{"department":"Construction & Inspections","last_name":"Klepac","first_name":"Daniel","job_title":"Elecl Inspector,Sr(Expert)","hourly_rate":"48.04"}
+,{"department":"Construction & Inspections","last_name":"Pellinger Jr.","first_name":"Richard","job_title":"Bldg Plans Examiner Supv","hourly_rate":"51.65"}
+,{"department":"Construction & Inspections","last_name":"Belau","first_name":"Geoffrey","job_title":"Permit Process Leader","hourly_rate":"49.91"}
+,{"department":"Construction & Inspections","last_name":"Sandberg","first_name":"Andrew","job_title":"Permit Process Leader","hourly_rate":"49.91"}
+,{"department":"Construction & Inspections","last_name":"Zaleski","first_name":"Krzysztof","job_title":"Strucl Plans Engr","hourly_rate":"52.74"}
+,{"department":"Construction & Inspections","last_name":"Dowlen-Godine","first_name":"Shimika","job_title":"Permit Spec Supv","hourly_rate":"42.06"}
+,{"department":"Construction & Inspections","last_name":"Anderson","first_name":"Malli","job_title":"Land Use Plnr II","hourly_rate":"45.26"}
+,{"department":"Construction & Inspections","last_name":"Hurley","first_name":"Joseph","job_title":"Land Use Plnr III","hourly_rate":"48.79"}
+,{"department":"Education & Early Learning","last_name":"Phillips","first_name":"Dalisha","job_title":"StratAdvsr1 *","hourly_rate":"38.06"}
+,{"department":"Education & Early Learning","last_name":"Champa","first_name":"Mimi","job_title":"Grants&Contracts Spec,Sr","hourly_rate":"35.43"}
+,{"department":"Information Technology","last_name":"Fields","first_name":"Maxie","job_title":"Manager3,Exempt","hourly_rate":"61.537"}
+,{"department":"Information Technology","last_name":"Vaze","first_name":"Vinay","job_title":"Info Technol Prof A,Exempt","hourly_rate":"69.506"}
+,{"department":"Information Technology","last_name":"Schmitz","first_name":"Monica","job_title":"Info Technol Prof A,Exempt","hourly_rate":"67.322"}
+,{"department":"Information Technology","last_name":"Alton","first_name":"John","job_title":"Info Technol Prof C-BU","hourly_rate":"51.434"}
+,{"department":"Information Technology","last_name":"Braun","first_name":"Ock-Kyung","job_title":"Info Technol Prof B-BU","hourly_rate":"57.608"}
+,{"department":"Information Technology","last_name":"Hufford","first_name":"Scott","job_title":"Info Technol Prof B-BU","hourly_rate":"51.251"}
+,{"department":"Information Technology","last_name":"Petersen","first_name":"Rolf","job_title":"Info Technol Prof B-BU","hourly_rate":"57.44"}
+,{"department":"Information Technology","last_name":"DeWald","first_name":"Calan","job_title":"Info Technol Prof B-BU","hourly_rate":"55.12"}
+,{"department":"Information Technology","last_name":"Bevins","first_name":"Ralph","job_title":"Video Spec II","hourly_rate":"40.48"}
+,{"department":"Information Technology","last_name":"Kadirimangalam","first_name":"Himakar","job_title":"Info Technol Prof C-BU","hourly_rate":"46.8"}
+,{"department":"Information Technology","last_name":"Mukai","first_name":"Kenneth","job_title":"Info Technol Prof B-BU","hourly_rate":"57.267"}
+,{"department":"Information Technology","last_name":"Law","first_name":"Joyce","job_title":"Info Technol Prof B-BU","hourly_rate":"57.695"}
+,{"department":"Information Technology","last_name":"Thater Jr","first_name":"Albert","job_title":"Info Technol Systs Anlyst","hourly_rate":"42.92"}
+,{"department":"Information Technology","last_name":"Halbakken-Lafave","first_name":"Terry","job_title":"Info Technol Spec","hourly_rate":"35.43"}
+,{"department":"Information Technology","last_name":"Manee","first_name":"Christopher","job_title":"Info Technol Prof B-BU","hourly_rate":"56.16"}
+,{"department":"Information Technology","last_name":"Pham","first_name":"Kristina","job_title":"Info Technol Prof A,Exempt","hourly_rate":"67.6"}
+,{"department":"Information Technology","last_name":"Sacre","first_name":"Catherine","job_title":"Info Technol Prof A *","hourly_rate":"67.6"}
+,{"department":"Information Technology","last_name":"Pilot","first_name":"Kimberly","job_title":"Actg Tech II-BU","hourly_rate":"25.17"}
+,{"department":"Legislative Department","last_name":"Moore","first_name":"Rita","job_title":"Legislative Info Spec II","hourly_rate":"32.81"}
+,{"department":"Legislative Department","last_name":"Winkler","first_name":"Jenny","job_title":"StratAdvsr-Legislative","hourly_rate":"50.7868"}
+,{"department":"Mayor's Office","last_name":"Hwangbo","first_name":"So Yeon","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Seattle Public Utilities","last_name":"Brasch","first_name":"Julia","job_title":"Plng&Dev Spec I *","hourly_rate":"33.45"}
+,{"department":"Seattle Public Utilities","last_name":"Lyons","first_name":"Elizabeth","job_title":"Capital Prjts Coord,Sr","hourly_rate":"54.9"}
+,{"department":"Seattle Public Utilities","last_name":"Gray","first_name":"William","job_title":"Truck Drvr,Heavy","hourly_rate":"32.35"}
+,{"department":"Seattle Public Utilities","last_name":"Morris","first_name":"Sean","job_title":"Security Prgms Spec","hourly_rate":"33.45"}
+,{"department":"Seattle Public Utilities","last_name":"Chong","first_name":"David","job_title":"Wtr Quality Anlyst","hourly_rate":"33.45"}
+,{"department":"Seattle Public Utilities","last_name":"Talley","first_name":"Stephanie","job_title":"Admin Spec III-BU","hourly_rate":"29.29"}
+,{"department":"Seattle Public Utilities","last_name":"Wells","first_name":"William","job_title":"Manager3,Utils","hourly_rate":"62.421"}
+,{"department":"Seattle Public Utilities","last_name":"Mafua","first_name":"Aigafealofani","job_title":"Wtr Pipe Wkr,Sr","hourly_rate":"36.11"}
+,{"department":"Seattle Public Utilities","last_name":"Hightower","first_name":"Stanton","job_title":"Wtr Pipe Wkr Sr-WDM II","hourly_rate":"37.53"}
+,{"department":"Seattle Public Utilities","last_name":"Legg","first_name":"Bryan","job_title":"Wtr Pipe Wkr-WDM I","hourly_rate":"33.98"}
+,{"department":"Seattle Public Utilities","last_name":"Secor","first_name":"David","job_title":"Pmp Stat Elecl Tech","hourly_rate":"41.95"}
+,{"department":"Seattle Public Utilities","last_name":"Guerrette","first_name":"Jessica","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Public Utilities","last_name":"Sztern","first_name":"Shailee","job_title":"Civil Engr Supv","hourly_rate":"58.62"}
+,{"department":"Seattle Public Utilities","last_name":"Smith","first_name":"Jeffrey","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Public Utilities","last_name":"Kenan","first_name":"Abdirahman","job_title":"Civil Engrng Spec,Assoc","hourly_rate":"41.2"}
+,{"department":"Seattle Public Utilities","last_name":"Glover","first_name":"Halley","job_title":"Util Svc Rep","hourly_rate":"33.21"}
+,{"department":"Seattle Public Utilities","last_name":"Hegland","first_name":"Stefanie","job_title":"Civil Engrng Spec,Sr","hourly_rate":"50.18"}
+,{"department":"Seattle Public Utilities","last_name":"Blazina","first_name":"Cynthia","job_title":"Manager3,Engrng&Plans Rev","hourly_rate":"66.267"}
+,{"department":"Seattle Public Utilities","last_name":"Wynne","first_name":"Michael","job_title":"Civil Engr,Assoc","hourly_rate":"47.18"}
+,{"department":"Seattle Public Utilities","last_name":"Perry","first_name":"Yolande","job_title":"Util Act Rep Trne","hourly_rate":"24.28"}
+,{"department":"Seattle Public Utilities","last_name":"Jacquot","first_name":"Benjamin","job_title":"Util Act Rep Supv I","hourly_rate":"34.78"}
+,{"department":"Seattle Public Utilities","last_name":"Cuesta Burke","first_name":"Jorge","job_title":"Util Act Rep I","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Sandoval","first_name":"Yolanda","job_title":"Util Act Rep Trne","hourly_rate":"24.28"}
+,{"department":"Seattle Public Utilities","last_name":"Thwing","first_name":"Michael","job_title":"Util Act Rep II","hourly_rate":"32.96"}
+,{"department":"Seattle Public Utilities","last_name":"Mitchell","first_name":"Natasha","job_title":"Personnel Spec","hourly_rate":"37.59"}
+,{"department":"Seattle Public Utilities","last_name":"Hua","first_name":"Thanh","job_title":"Warehouser,Sr-BU","hourly_rate":"29.56"}
+,{"department":"Seattle Public Utilities","last_name":"Smith","first_name":"Teresa","job_title":"Capital Prjts Coord,Asst","hourly_rate":"44.45"}
+,{"department":"Seattle Public Utilities","last_name":"Yeung","first_name":"Elaine","job_title":"StratAdvsr1,CSPI&P","hourly_rate":"54.442"}
+,{"department":"Seattle Public Utilities","last_name":"Maringer-Franks","first_name":"Teri","job_title":"Exec Asst,Sr","hourly_rate":"46.35"}
+,{"department":"Seattle Public Utilities","last_name":"Flowers","first_name":"Cynthia","job_title":"StratAdvsr1,Exempt","hourly_rate":"53.692"}
+,{"department":"Seattle Public Utilities","last_name":"Garrett","first_name":"Rachel","job_title":"Plng&Dev Spec,Sr","hourly_rate":"46.35"}
+,{"department":"Seattle Public Utilities","last_name":"Cornell","first_name":"Thomas","job_title":"Drainage&Wstwtr Coll Wkr CI","hourly_rate":"31.33"}
+,{"department":"Seattle Public Utilities","last_name":"Buell","first_name":"Zachary","job_title":"Drainage&Wstwtr Lead Wkr CII","hourly_rate":"35.16"}
+,{"department":"Seattle Public Utilities","last_name":"Dyson","first_name":"Aaron","job_title":"Drainage&Wstwtr Coll Wkr CI","hourly_rate":"31.33"}
+,{"department":"Seattle Public Utilities","last_name":"Sumner","first_name":"Marcellus","job_title":"Drainage&Wstwtr Coll Wkr CI","hourly_rate":"31.33"}
+,{"department":"Seattle Public Utilities","last_name":"Effrig","first_name":"Shelly","job_title":"Drainage&Wstwtr Coll CC","hourly_rate":"40.96"}
+,{"department":"Seattle Public Utilities","last_name":"White","first_name":"Timothy","job_title":"Drainage&Wstwtr Coll Wkr","hourly_rate":"30.74"}
+,{"department":"Seattle Public Utilities","last_name":"Ovbiebo","first_name":"Taiye","job_title":"StratAdvsr2,Engrng&Plans Rev","hourly_rate":"58.776"}
+,{"department":"Seattle City Light","last_name":"Rose","first_name":"Joseph","job_title":"Elecl Engrng Spec,Sr","hourly_rate":"50.18"}
+,{"department":"Seattle City Light","last_name":"Lu","first_name":"Curtis","job_title":"Elecl PwrSystsEngr-Mrt","hourly_rate":"63.58"}
+,{"department":"Seattle City Light","last_name":"Shipek","first_name":"John","job_title":"Elecl PwrSystsEngr,Prin-Mrt","hourly_rate":"67"}
+,{"department":"Seattle City Light","last_name":"Ta","first_name":"Minh","job_title":"Elecl Engrng Spec,Sr","hourly_rate":"50.18"}
+,{"department":"Seattle City Light","last_name":"Kenny","first_name":"Mariah","job_title":"Elecl Engr,Asst I","hourly_rate":"35.62"}
+,{"department":"Seattle City Light","last_name":"Kim","first_name":"Jewon","job_title":"Elecl Pwr Systs Engr","hourly_rate":"62.26"}
+,{"department":"Seattle City Light","last_name":"Bolden","first_name":"Anthony","job_title":"Elec Engrng Des Spec,Asst III","hourly_rate":"43.14"}
+,{"department":"Seattle City Light","last_name":"Edwards","first_name":"Devon","job_title":"Equip Svcr","hourly_rate":"27.39"}
+,{"department":"Seattle City Light","last_name":"Kostic","first_name":"Madeline","job_title":"Enrgy Mgmt Anlyst,Sr *","hourly_rate":"47.22"}
+,{"department":"Seattle City Light","last_name":"Chadwick","first_name":"Crista","job_title":"Plng&Dev Spec,Sr","hourly_rate":"48.09"}
+,{"department":"Seattle City Light","last_name":"Gamponia","first_name":"Villamor","job_title":"StratAdvsr2,Utils-BU","hourly_rate":"62.27"}
+,{"department":"Seattle City Light","last_name":"Pate","first_name":"Deborah","job_title":"Elecl Engrng Spec,Asst III","hourly_rate":"40.76"}
+,{"department":"Seattle City Light","last_name":"Vavrek","first_name":"Brandan","job_title":"Civil Engr,Assoc","hourly_rate":"45.45"}
+,{"department":"Seattle City Light","last_name":"Larson","first_name":"Paul","job_title":"Executive2","hourly_rate":"69.01"}
+,{"department":"Seattle City Light","last_name":"Eng","first_name":"Stanley","job_title":"Civil Engr Supv","hourly_rate":"63.1"}
+,{"department":"Seattle City Light","last_name":"Buchta","first_name":"Erik","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"King","first_name":"Jason","job_title":"Mach Spec","hourly_rate":"32.21"}
+,{"department":"Seattle City Light","last_name":"Soto","first_name":"Oscar","job_title":"Grounds Maint CC","hourly_rate":"37.23"}
+,{"department":"Seattle City Light","last_name":"Benjamin","first_name":"Tara","job_title":"Admin Spec II-BU","hourly_rate":"24.28"}
+,{"department":"Seattle City Light","last_name":"Chan","first_name":"Shu Ting","job_title":"Pwr Anlyst","hourly_rate":"46.61"}
+,{"department":"Seattle City Light","last_name":"Reed","first_name":"Rebecca","job_title":"Actg Tech III-BU","hourly_rate":"29.89"}
+,{"department":"Seattle City Light","last_name":"Baniani","first_name":"Mandana","job_title":"Mgmt Systs Anlyst,Sr","hourly_rate":"46.35"}
+,{"department":"Seattle City Light","last_name":"Davis","first_name":"Kevin","job_title":"Manager2,Utils","hourly_rate":"55.197"}
+,{"department":"Seattle City Light","last_name":"Ramos","first_name":"Ivana","job_title":"Personnel Spec,Asst","hourly_rate":"28.74"}
+,{"department":"Seattle City Light","last_name":"Palmer","first_name":"Andrew","job_title":"Pwr Dispatcher","hourly_rate":"61.01"}
+,{"department":"Seattle City Light","last_name":"O'Donald","first_name":"Gary","job_title":"Prot&Cntrl Elctn-In chg","hourly_rate":"62.59"}
+,{"department":"Seattle City Light","last_name":"Schroeder","first_name":"Philip","job_title":"Elecl Constr&Maint Supv-BU","hourly_rate":"61.39"}
+,{"department":"Seattle City Light","last_name":"Davis","first_name":"Cedric","job_title":"Util Constr Lead Wkr","hourly_rate":"32.35"}
+,{"department":"Seattle City Light","last_name":"Arlt","first_name":"Joshua","job_title":"Util Constr Wkr","hourly_rate":"29.79"}
+,{"department":"Seattle City Light","last_name":"Schickler","first_name":"Scott","job_title":"Cblspl CC-Asg Locator","hourly_rate":"56.66"}
+,{"department":"Seattle City Light","last_name":"Hornbeck","first_name":"Trenton","job_title":"Cblspl CC-Net Area","hourly_rate":"56.66"}
+,{"department":"Seattle City Light","last_name":"Francisco","first_name":"Crisostomo","job_title":"Elecl Work Rev CC","hourly_rate":"56.66"}
+,{"department":"Seattle City Light","last_name":"Provido","first_name":"Maria Theresa","job_title":"Warehouser-BU","hourly_rate":"26.86"}
+,{"department":"Seattle City Light","last_name":"Allen","first_name":"Cecil","job_title":"Arboriculturist","hourly_rate":"36.92"}
+,{"department":"Seattle City Light","last_name":"Mathis","first_name":"Brandon","job_title":"Rights-Of-Way Maint Wkr","hourly_rate":"30.7"}
+,{"department":"Seattle City Light","last_name":"Hawk","first_name":"Matthew","job_title":"Lnwkr Aprn","hourly_rate":"39.94"}
+,{"department":"Seattle City Light","last_name":"Seidler","first_name":"Joseph","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Stollov","first_name":"Michael","job_title":"Comms Elctn II","hourly_rate":"51.31"}
+,{"department":"Seattle City Light","last_name":"Moore Jr","first_name":"Kelvin","job_title":"Warehouser-BU","hourly_rate":"25.84"}
+,{"department":"Seattle City Light","last_name":"Ly","first_name":"Nak","job_title":"Warehouser,Sr-BU","hourly_rate":"29.56"}
+,{"department":"Seattle City Light","last_name":"Small","first_name":"Darrin","job_title":"Mat Suplr-Asg Leo/Pdm/Hb","hourly_rate":"45.51"}
+,{"department":"Seattle City Light","last_name":"Cesena Jr.","first_name":"Victor","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Tenney","first_name":"Nephi","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Shearer","first_name":"Aaron","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Owen","first_name":"Richard","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Huynh","first_name":"Kelly","job_title":"StratAdvsr1,Utils-BU","hourly_rate":"53.9897"}
+,{"department":"Seattle City Light","last_name":"Beach","first_name":"Nikolis","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"King","first_name":"David","job_title":"Naturalist *","hourly_rate":"26.64"}
+,{"department":"Seattle City Light","last_name":"Lusby","first_name":"Irina","job_title":"Mgmt Systs Anlyst,Sr","hourly_rate":"48.09"}
+,{"department":"Seattle City Light","last_name":"Phillips","first_name":"Dawn","job_title":"Meter Elctn","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Arrington","first_name":"Brigitte","job_title":"Elecl Svc Rep","hourly_rate":"36.79"}
+,{"department":"Seattle City Light","last_name":"Airhart","first_name":"Jami","job_title":"Engrng Aide","hourly_rate":"30.01"}
+,{"department":"Seattle City Light","last_name":"Calipes","first_name":"Shelby","job_title":"Elecl Svc Rep,Supvsng","hourly_rate":"44.56"}
+,{"department":"Seattle City Light","last_name":"Weller","first_name":"Tief","job_title":"Elecl Svc Rep,Supvsng","hourly_rate":"44.56"}
+,{"department":"Seattle City Light","last_name":"Raines","first_name":"Christopher","job_title":"Elecl Svc Rep,Supvsng","hourly_rate":"44.56"}
+,{"department":"Seattle City Light","last_name":"Willstrop","first_name":"Mark","job_title":"Mgmt Systs Anlyst,Sr","hourly_rate":"48.09"}
+,{"department":"Parks & Recreation","last_name":"Groener","first_name":"Yosef","job_title":"Ed Prgm Asst *","hourly_rate":"22.59"}
+,{"department":"Parks & Recreation","last_name":"Lum","first_name":"Lan","job_title":"Naturalist","hourly_rate":"26.64"}
+,{"department":"Parks & Recreation","last_name":"Smith","first_name":"Marlon","job_title":"Work Trng Enrollee *","hourly_rate":"16"}
+,{"department":"Parks & Recreation","last_name":"McClendon","first_name":"Erica","job_title":"Work Trng Enrollee *","hourly_rate":"16"}
+,{"department":"Parks & Recreation","last_name":"Gantz","first_name":"Kathleen","job_title":"Admin Staff Anlyst","hourly_rate":"38.98"}
+,{"department":"Parks & Recreation","last_name":"Lilleskare","first_name":"Kelsea","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Kuester","first_name":"Jenny","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Powell","first_name":"Jayson","job_title":"Rec Prgm Coord","hourly_rate":"37.59"}
+,{"department":"Parks & Recreation","last_name":"Hicks","first_name":"Regina","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"McBride","first_name":"Cynthia","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Barr","first_name":"Timothy","job_title":"Rec Leader","hourly_rate":"28.91"}
+,{"department":"Parks & Recreation","last_name":"Gutierrez","first_name":"Kalindi","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Enabulele","first_name":"Evana","job_title":"Rec Attendant","hourly_rate":"18.18"}
+,{"department":"Parks & Recreation","last_name":"Kongsaeng","first_name":"Fallen","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Wong","first_name":"Kitty","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Arale","first_name":"ZamZam","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Snow","first_name":"Thomas","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Sammut","first_name":"Cecelia","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Westover","first_name":"Wendy","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Anderson","first_name":"Derryn","job_title":"Rec Leader","hourly_rate":"28.91"}
+,{"department":"Parks & Recreation","last_name":"Hellier","first_name":"Justin","job_title":"StratAdvsr2,Parks&Rec","hourly_rate":"50.2501"}
+,{"department":"Parks & Recreation","last_name":"Tellez","first_name":"Kevin","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Hashimoto","first_name":"Jasmine","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Jaeger","first_name":"Brian","job_title":"Aquatic Cntr Coord,Asst","hourly_rate":"30.59"}
+,{"department":"Parks & Recreation","last_name":"Reagan","first_name":"Timothy","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Didier","first_name":"Asher","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Doan","first_name":"James","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Do","first_name":"Hao","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Plympton","first_name":"Michael","job_title":"Manager2,Parks&Rec","hourly_rate":"51"}
+,{"department":"Parks & Recreation","last_name":"Uhi","first_name":"Vaineula","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Parks & Recreation","last_name":"Paradis","first_name":"Jeffery","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Parks & Recreation","last_name":"Schauer","first_name":"Fred","job_title":"Grounds Maint Lead Wkr","hourly_rate":"29.56"}
+,{"department":"Parks & Recreation","last_name":"Canty","first_name":"Sean","job_title":"Grounds Maint Lead Wkr","hourly_rate":"28.49"}
+,{"department":"Parks & Recreation","last_name":"Mendoza","first_name":"Freddy","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Parks & Recreation","last_name":"Wyatt","first_name":"Sacha","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Parks & Recreation","last_name":"Petesch","first_name":"Patricia","job_title":"Manager2,Parks&Rec","hourly_rate":"53.0813"}
+,{"department":"Parks & Recreation","last_name":"Kaneko","first_name":"Mark","job_title":"Golf Course Tech","hourly_rate":"27.18"}
+,{"department":"Parks & Recreation","last_name":"Rivas","first_name":"Marie","job_title":"Pool Maint Wkr","hourly_rate":"28.49"}
+,{"department":"Parks & Recreation","last_name":"Danielson","first_name":"Robert","job_title":"Pool Maint Lead Wkr","hourly_rate":"30.39"}
+,{"department":"Parks & Recreation","last_name":"Mattsen","first_name":"Gregg","job_title":"Plumber CC","hourly_rate":"45.27"}
+,{"department":"Parks & Recreation","last_name":"White","first_name":"Ron","job_title":"Drainage&Wstwtr Lead Wkr CII","hourly_rate":"35.16"}
+,{"department":"Parks & Recreation","last_name":"Pitman","first_name":"Scott","job_title":"Carpenter,Sr","hourly_rate":"35.22"}
+,{"department":"Parks & Recreation","last_name":"Meshinchi","first_name":"Connor","job_title":"Tennis Instructor *","hourly_rate":"22.08"}
+,{"department":"Parks & Recreation","last_name":"Gandela","first_name":"Edmund","job_title":"Tennis Instructor *","hourly_rate":"22.08"}
+,{"department":"Parks & Recreation","last_name":"Powell","first_name":"Christopher","job_title":"Rec Prgm Spec,Sr","hourly_rate":"31.63"}
+,{"department":"Parks & Recreation","last_name":"Alexander","first_name":"Aretha","job_title":"Volunteer Prgms Coord","hourly_rate":"33.45"}
+,{"department":"Parks & Recreation","last_name":"Farrell","first_name":"Garrett","job_title":"Capital Prjts Coord,Sr","hourly_rate":"54.9"}
+,{"department":"Parks & Recreation","last_name":"Barker","first_name":"Sean","job_title":"Mgmt Systs Anlyst","hourly_rate":"38.98"}
+,{"department":"Parks & Recreation","last_name":"Chakraborty","first_name":"Pamela","job_title":"Mgmt Systs Anlyst,Asst","hourly_rate":"35.43"}
+,{"department":"Parks & Recreation","last_name":"McElroy","first_name":"Shanyanika","job_title":"Admin Staff Anlyst","hourly_rate":"40.48"}
+,{"department":"Parks & Recreation","last_name":"Hodges","first_name":"Jeffrey","job_title":"StratAdvsr1,General Govt","hourly_rate":"47.13"}
+,{"department":"Parks & Recreation","last_name":"Tegge","first_name":"Emily","job_title":"Personnel Spec","hourly_rate":"33.45"}
+,{"department":"Finance & Admin Services","last_name":"Cao","first_name":"Kevin","job_title":"Rates Mgmt Anlyst,Sr","hourly_rate":"49.91"}
+,{"department":"Finance & Admin Services","last_name":"Johnson","first_name":"Jennifer","job_title":"Cust Svc Rep,Sr","hourly_rate":"28.55"}
+,{"department":"Finance & Admin Services","last_name":"Ring","first_name":"Adrianne","job_title":"Animal Contrl Ofcr II","hourly_rate":"28.51"}
+,{"department":"Finance & Admin Services","last_name":"Lopez","first_name":"Christopher","job_title":"Cust Svc Rep","hourly_rate":"27.49"}
+,{"department":"Finance & Admin Services","last_name":"Boyle","first_name":"Terrance","job_title":"Cust Svc Rep","hourly_rate":"27.49"}
+,{"department":"Finance & Admin Services","last_name":"Brady","first_name":"Kim","job_title":"Licenses&Standards Inspector","hourly_rate":"38.86"}
+,{"department":"Finance & Admin Services","last_name":"Ey","first_name":"Victor","job_title":"Remittance Proc Tech","hourly_rate":"24.28"}
+,{"department":"Finance & Admin Services","last_name":"Cherry","first_name":"Michael","job_title":"Admin Spec II-BU","hourly_rate":"24.28"}
+,{"department":"Finance & Admin Services","last_name":"Watterson","first_name":"Mark","job_title":"Manager2,Fin,Bud,&Actg","hourly_rate":"46.575"}
+,{"department":"Finance & Admin Services","last_name":"Evans","first_name":"Rosemarie","job_title":"Accountant,Sr","hourly_rate":"41.06"}
+,{"department":"Finance & Admin Services","last_name":"Spruch","first_name":"Michelle","job_title":"Accountant,Sr","hourly_rate":"36.66"}
+,{"department":"Finance & Admin Services","last_name":"Guel","first_name":"Osvaldo","job_title":"Contract Anlyst","hourly_rate":"36.08"}
+,{"department":"Finance & Admin Services","last_name":"Fulcher","first_name":"Jeanne","job_title":"StratAdvsr1,General Govt","hourly_rate":"43.813"}
+,{"department":"Finance & Admin Services","last_name":"Durham","first_name":"David","job_title":"Auto Mechanic","hourly_rate":"35.89"}
+,{"department":"Finance & Admin Services","last_name":"Nelson","first_name":"John","job_title":"Equip Svcr","hourly_rate":"27.39"}
+,{"department":"Finance & Admin Services","last_name":"Corrie","first_name":"Jeffrey","job_title":"Auto Mechanic","hourly_rate":"35.89"}
+,{"department":"Finance & Admin Services","last_name":"Russell","first_name":"Jess","job_title":"Auto Mechanic","hourly_rate":"35.89"}
+,{"department":"Finance & Admin Services","last_name":"Kamoto","first_name":"Elizabeth","job_title":"Janitor-FAS/CL","hourly_rate":"21.61"}
+,{"department":"Finance & Admin Services","last_name":"Harris Jr.","first_name":"Ray","job_title":"Janitor-FAS/CL","hourly_rate":"21.61"}
+,{"department":"Arts & Culture","last_name":"Moss","first_name":"Sheila","job_title":"Accountant","hourly_rate":"34.36"}
+,{"department":"Arts & Culture","last_name":"Allison","first_name":"Paige","job_title":"Admin Support Asst *","hourly_rate":"21.29"}
+,{"department":"City Budget Office","last_name":"Fibbs","first_name":"Shino","job_title":"Exec Asst","hourly_rate":"46.35"}
+,{"department":"Seattle Dept of Transportation","last_name":"Estey","first_name":"Michael","job_title":"Manager3,Engrng&Plans Rev","hourly_rate":"64.865"}
+,{"department":"Seattle Dept of Transportation","last_name":"Snyder","first_name":"Mary","job_title":"StratAdvsr2,General Govt","hourly_rate":"56.278"}
+,{"department":"Seattle Dept of Transportation","last_name":"Polley","first_name":"Margo","job_title":"StratAdvsr2,General Govt","hourly_rate":"56.276"}
+,{"department":"Seattle Dept of Transportation","last_name":"Edmonds","first_name":"Rebecca","job_title":"StratAdvsr1,Engrng&Plans Rev","hourly_rate":"52.21"}
+,{"department":"Seattle Dept of Transportation","last_name":"Dong","first_name":"Jonathan","job_title":"StratAdvsr1,General Govt","hourly_rate":"53.446"}
+,{"department":"Seattle Dept of Transportation","last_name":"Arthur","first_name":"Christina","job_title":"Transp Plnr,Sr *","hourly_rate":"46.13"}
+,{"department":"Seattle Dept of Transportation","last_name":"Harris","first_name":"Erin","job_title":"Transp Plnr,Sr","hourly_rate":"46.13"}
+,{"department":"Seattle Dept of Transportation","last_name":"Nurhussen","first_name":"Awelker","job_title":"Civil Engr,Assoc","hourly_rate":"47.18"}
+,{"department":"Seattle Dept of Transportation","last_name":"Fuentes","first_name":"Armando","job_title":"Signal Elctn,Journey-Level","hourly_rate":"52.13"}
+,{"department":"Seattle Dept of Transportation","last_name":"Troxel","first_name":"Erik","job_title":"Signal Elctn CC","hourly_rate":"56.4"}
+,{"department":"Seattle Dept of Transportation","last_name":"Burgan","first_name":"Kurt","job_title":"Bridge Op,Sr","hourly_rate":"32.18"}
+,{"department":"Seattle Dept of Transportation","last_name":"Hoskins","first_name":"Erick","job_title":"Bridge Op *","hourly_rate":"28.28"}
+,{"department":"Seattle Dept of Transportation","last_name":"Wallace","first_name":"Brace","job_title":"Bridge Maint General Supv","hourly_rate":"41.65"}
+,{"department":"Seattle Dept of Transportation","last_name":"Brazzale","first_name":"Ross","job_title":"Civil Engr,Assoc","hourly_rate":"43.68"}
+,{"department":"Seattle Dept of Transportation","last_name":"Kreal","first_name":"Sophan","job_title":"Civil Engrng Spec,Asst III","hourly_rate":"36.24"}
+,{"department":"Seattle Dept of Transportation","last_name":"Bloomer","first_name":"Leslie","job_title":"Real Property Agent,Sr","hourly_rate":"50.62"}
+,{"department":"Seattle Dept of Transportation","last_name":"Taing","first_name":"Karen","job_title":"Plng&Dev Spec II","hourly_rate":"40.48"}
+,{"department":"Seattle Dept of Transportation","last_name":"Ryles","first_name":"David","job_title":"Civil Engrng Spec Supv","hourly_rate":"52.55"}
+,{"department":"Seattle Dept of Transportation","last_name":"Young","first_name":"Fong","job_title":"Civil Engrng Spec,Assoc","hourly_rate":"44.51"}
+,{"department":"Seattle Dept of Transportation","last_name":"Gu","first_name":"Ruiliang","job_title":"Civil Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle Dept of Transportation","last_name":"Pedersen","first_name":"Diane","job_title":"Civil Engrng Spec,Sr","hourly_rate":"50.18"}
+,{"department":"Seattle Dept of Transportation","last_name":"Aguilar","first_name":"Erwin","job_title":"Sign Pntr,Sr","hourly_rate":"35.32"}
+,{"department":"Seattle Dept of Transportation","last_name":"Primacio","first_name":"Joseph","job_title":"Constr&Maint Equip Op,Sr","hourly_rate":"37.14"}
+,{"department":"Seattle Dept of Transportation","last_name":"Abrahamson","first_name":"Dale","job_title":"Asphalt Raker,Sr","hourly_rate":"31.49"}
+,{"department":"Seattle Dept of Transportation","last_name":"Davison","first_name":"Eugene","job_title":"Asphalt Raker","hourly_rate":"30.31"}
+,{"department":"Seattle Dept of Transportation","last_name":"Wiles","first_name":"Galen","job_title":"Constr&Maint Equip Op","hourly_rate":"35.37"}
+,{"department":"Seattle Dept of Transportation","last_name":"Copple","first_name":"Ethan","job_title":"Tree Trimmer,Lead","hourly_rate":"34.06"}
+,{"department":"Seattle Dept of Transportation","last_name":"Kendus","first_name":"Roman","job_title":"Gardener","hourly_rate":"27.18"}
+,{"department":"Seattle Dept of Transportation","last_name":"Helms","first_name":"Stephanie","job_title":"Arboriculturist","hourly_rate":"34.07"}
+,{"department":"Seattle Dept of Transportation","last_name":"Pupungatoa","first_name":"Epifania","job_title":"Maint Laborer *","hourly_rate":"26.09"}
+,{"department":"Seattle Dept of Transportation","last_name":"Albrecht","first_name":"Leslie","job_title":"Admin Spec III-BU *","hourly_rate":"26.09"}
+,{"department":"Seattle Dept of Transportation","last_name":"Ho","first_name":"Emily","job_title":"Muni Government Intern *","hourly_rate":"20.3"}
+,{"department":"Seattle Dept of Transportation","last_name":"Monillas","first_name":"Norman","job_title":"Actg Tech II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle Dept of Transportation","last_name":"Sivage","first_name":"Gabrielle","job_title":"StratAdvsr2,Fin,Bud,&Actg","hourly_rate":"55.102"}
+,{"department":"Seattle Dept of Transportation","last_name":"Lee","first_name":"Barbara","job_title":"StratAdvsr2,Engrng&Plans Rev","hourly_rate":"60.864"}
+,{"department":"Civil Service Commissions","last_name":"Nark","first_name":"Joel","job_title":"Civil Svc Commissioner","hourly_rate":"5.53"}
+,{"department":"Employees' Retirement System","last_name":"Graziani","first_name":"Frankie","job_title":"Cust Svc Rep","hourly_rate":"27.49"}
+,{"department":"Seattle Center","last_name":"Ignacio","first_name":"Ramon","job_title":"Util Laborer","hourly_rate":"25.17"}
+,{"department":"Seattle Center","last_name":"Louie","first_name":"Joe","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Center","last_name":"Friedman","first_name":"Lori","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Center","last_name":"Dahlman","first_name":"Mark","job_title":"Laborer","hourly_rate":"23.58"}
+,{"department":"Seattle Center","last_name":"Tatola","first_name":"Hawton","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Center","last_name":"Van Dyke","first_name":"Christopher","job_title":"Laborer *","hourly_rate":"22.19"}
+,{"department":"Seattle Center","last_name":"Roberts","first_name":"David","job_title":"Facility Maint Supv,Asst","hourly_rate":"48.97"}
+,{"department":"Seattle Center","last_name":"Moreda","first_name":"Zelalem","job_title":"Parking Attendant *","hourly_rate":"19.05"}
+,{"department":"Seattle Center","last_name":"Pedowitz","first_name":"Richard","job_title":"Manager3,General Govt","hourly_rate":"49.84"}
+,{"department":"Seattle Center","last_name":"Sandford","first_name":"Clark","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Matney","first_name":"Joshua","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"D Aberle","first_name":"Michael","job_title":"Stage CC","hourly_rate":"39.67"}
+,{"department":"Seattle Center","last_name":"Hickey","first_name":"John","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Hamann","first_name":"Michael","job_title":"Stage Tech *","hourly_rate":"31.26"}
+,{"department":"Seattle Center","last_name":"Berg","first_name":"Mary","job_title":"Usher *","hourly_rate":"16.11"}
+,{"department":"Seattle Center","last_name":"Kirschenman","first_name":"Joni","job_title":"Usher *","hourly_rate":"16.11"}
+,{"department":"Seattle Center","last_name":"Wells","first_name":"Denise","job_title":"Exec Asst,Sr","hourly_rate":"49.91"}
+,{"department":"Sustainability & Environment","last_name":"Tam","first_name":"Aaron","job_title":"Muni Government Intern *","hourly_rate":"20.3"}
+,{"department":"Sustainability & Environment","last_name":"Storm","first_name":"Poppy","job_title":"Plng&Dev Spec,Sr *","hourly_rate":"41.26"}
+,{"department":"Police Department","last_name":"Puente","first_name":"David","job_title":"Pol Ofcr-Detective","hourly_rate":"55.15"}
+,{"department":"Police Department","last_name":"Ovens","first_name":"Thomas","job_title":"Pol Lieut","hourly_rate":"80.07"}
+,{"department":"Police Department","last_name":"Lee","first_name":"Jin","job_title":"Pol Recruit","hourly_rate":"28.99"}
+,{"department":"Police Department","last_name":"Cantu","first_name":"Joshua","job_title":"Pol Recruit","hourly_rate":"28.99"}
+,{"department":"Police Department","last_name":"Malenchenko","first_name":"Aleksandr","job_title":"Pol Recruit","hourly_rate":"28.99"}
+,{"department":"Police Department","last_name":"Wang","first_name":"Travis","job_title":"Pol Recruit","hourly_rate":"28.99"}
+,{"department":"Police Department","last_name":"Hay","first_name":"Channa","job_title":"Actg Tech III","hourly_rate":"26.64"}
+,{"department":"Police Department","last_name":"Thomas","first_name":"Cherie","job_title":"Pol Comms Dispatcher II","hourly_rate":"32.74"}
+,{"department":"Police Department","last_name":"Aguilar","first_name":"Paul","job_title":"Pol Comms Dispatcher I","hourly_rate":"29.15"}
+,{"department":"Police Department","last_name":"Vantine","first_name":"Levi","job_title":"Pol Comms Dispatcher III","hourly_rate":"36.64"}
+,{"department":"Police Department","last_name":"Breed","first_name":"Kelley","job_title":"Pol Comms Dispatcher II","hourly_rate":"31.49"}
+,{"department":"Police Department","last_name":"Esparza","first_name":"Joel","job_title":"Pol Comms Dispatcher III","hourly_rate":"36.64"}
+,{"department":"Police Department","last_name":"Wigoda","first_name":"Gabriella","job_title":"Pol Comms Dispatcher I","hourly_rate":"28.16"}
+,{"department":"Police Department","last_name":"Stevenson","first_name":"Anthony","job_title":"Pol Ofcr-Detective","hourly_rate":"58.22"}
+,{"department":"Police Department","last_name":"Holmberg","first_name":"Corinne","job_title":"Admin Spec I-BU","hourly_rate":"25.17"}
+,{"department":"Police Department","last_name":"Mcauley","first_name":"Aaron","job_title":"Pol Ofcr-Detective","hourly_rate":"55.15"}
+,{"department":"Police Department","last_name":"Jandoc","first_name":"Steven","job_title":"Pol Sgt-Detective-Patrol-BWV","hourly_rate":"71.69"}
+,{"department":"Police Department","last_name":"Simmons","first_name":"David","job_title":"Pol Ofcr-Detective","hourly_rate":"55.15"}
+,{"department":"Police Department","last_name":"Jorgensen","first_name":"Douglas","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"LaClaire","first_name":"Aimee","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Romeo","first_name":"Seth","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Washington","first_name":"Michael","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"61.02"}
+,{"department":"Police Department","last_name":"Dines","first_name":"Kenneth","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"61.02"}
+,{"department":"Police Department","last_name":"Terry","first_name":"David","job_title":"Pol Sgt-Patrl","hourly_rate":"66.11"}
+,{"department":"Police Department","last_name":"Meyer","first_name":"Timothy","job_title":"Pol Ofcr-BWV","hourly_rate":"44.75"}
+,{"department":"Police Department","last_name":"Chittenden","first_name":"Jason","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"60"}
+,{"department":"Police Department","last_name":"Boys","first_name":"Nicholas","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Poole","first_name":"Tyler","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Digalis","first_name":"Theresa","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"58.98"}
+,{"department":"Police Department","last_name":"Campbell","first_name":"Ronald","job_title":"Pol Sgt-Patrl-BWV","hourly_rate":"67.29"}
+,{"department":"Police Department","last_name":"Ellis","first_name":"Ryan","job_title":"Pol Ofcr-Patrl","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Tolmie","first_name":"Michi","job_title":"Admin Spec II-BU","hourly_rate":"27.18"}
+,{"department":"Police Department","last_name":"Roit","first_name":"Samantha","job_title":"Admin Spec II-BU","hourly_rate":"26.09"}
+,{"department":"Police Department","last_name":"Milburn","first_name":"Matthew","job_title":"Pol Ofcr-BWV","hourly_rate":"44.75"}
+,{"department":"Police Department","last_name":"Stampfl","first_name":"Brian","job_title":"Pol Lieut","hourly_rate":"80.07"}
+,{"department":"Police Department","last_name":"Goodwin","first_name":"Joshua","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"55.91"}
+,{"department":"Police Department","last_name":"Norton Jr","first_name":"James","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"55.91"}
+,{"department":"Police Department","last_name":"Thompson","first_name":"Aaron","job_title":"Pol Ofcr-BWV","hourly_rate":"48.71"}
+,{"department":"Police Department","last_name":"Dorr","first_name":"Brandon","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"52.85"}
+,{"department":"Police Department","last_name":"Lim","first_name":"Davidson","job_title":"Pol Ofcr-BWV","hourly_rate":"52.09"}
+,{"department":"Police Department","last_name":"Holmes","first_name":"Susan","job_title":"Pol Data Tech","hourly_rate":"27.95"}
+,{"department":"Police Department","last_name":"Hardi","first_name":"Vanessa","job_title":"Pol Data Tech Supv","hourly_rate":"33.23"}
+,{"department":"Police Department","last_name":"Pickering","first_name":"Erin","job_title":"Admin Spec I-BU","hourly_rate":"25.17"}
+,{"department":"Police Department","last_name":"Voegele","first_name":"Bonnie","job_title":"Manager2,General Govt","hourly_rate":"50.8"}
+,{"department":"Police Department","last_name":"Dike","first_name":"Brittany","job_title":"Parking Enf Ofcr","hourly_rate":"27.74"}
+,{"department":"Police Department","last_name":"Whigham","first_name":"Selita","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Bruk","first_name":"Maxim","job_title":"Parking Enf Ofcr","hourly_rate":"28.75"}
+,{"department":"Police Department","last_name":"Archide","first_name":"Philip","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Baardse","first_name":"Richard","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Adams","first_name":"Kyle","job_title":"Parking Enf Ofcr","hourly_rate":"30.71"}
+,{"department":"Police Department","last_name":"Braboy","first_name":"Samuel","job_title":"Pol Ofcr-Motorcycle-BWV","hourly_rate":"60.77"}
+,{"department":"Police Department","last_name":"Ellis Jr","first_name":"Roy","job_title":"Pol Ofcr-Motorcycle-BWV","hourly_rate":"60.77"}
+,{"department":"Police Department","last_name":"Chin","first_name":"Jonathan","job_title":"Pol Ofcr-DWI-Am/Pm Enf-BWV","hourly_rate":"55.91"}
+,{"department":"Police Department","last_name":"Coles","first_name":"Christopher","job_title":"Pol Ofcr-Patrl-BWV","hourly_rate":"55.91"}
+,{"department":"Police Department","last_name":"Davis","first_name":"Kathleen","job_title":"Admin Staff Asst","hourly_rate":"35.43"}
+,{"department":"Police Department","last_name":"Monroe","first_name":"Thoms","job_title":"Pol Ofcr-Diver-BWV","hourly_rate":"61.79"}
+,{"department":"Police Department","last_name":"Selfridge","first_name":"Ty","job_title":"Pol Ofcr-SWAT-BWV","hourly_rate":"56.68"}
+,{"department":"Police Department","last_name":"Lednicky","first_name":"Forrest","job_title":"Pol Ofcr-SWAT-BWV","hourly_rate":"56.68"}
+,{"department":"Police Department","last_name":"Clavadetscher","first_name":"David","job_title":"Pol Lieut","hourly_rate":"84.56"}
+,{"department":"Police Department","last_name":"Roeller","first_name":"Paul","job_title":"Pol Ofcr- Student","hourly_rate":"39.01"}
+,{"department":"Neighborhoods","last_name":"Hall-Ruiz","first_name":"Yemaya","job_title":"Plng&Dev Spec II *","hourly_rate":"36.13"}
+,{"department":"Fire Department","last_name":"Ngo","first_name":"Theresa","job_title":"Mgmt Systs Anlyst","hourly_rate":"40.48"}
+,{"department":"Fire Department","last_name":"Madison","first_name":"Sherry","job_title":"Admin Spec II-BU","hourly_rate":"26.09"}
+,{"department":"Fire Department","last_name":"Chavez","first_name":"Peter","job_title":"Fireftr-90.46 Hrs","hourly_rate":"30.88"}
+,{"department":"Fire Department","last_name":"Swensington","first_name":"Jessica","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Wesch","first_name":"Joel","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Greene","first_name":"Brandon","job_title":"Fireftr-90.46 Hrs","hourly_rate":"32.73"}
+,{"department":"Fire Department","last_name":"Cho","first_name":"Yong","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"43.46"}
+,{"department":"Fire Department","last_name":"Litchfield","first_name":"Randal","job_title":"Fireftr-90.46 Hrs","hourly_rate":"32.73"}
+,{"department":"Fire Department","last_name":"Greene","first_name":"Mike","job_title":"Fire Capt-90.46 Hrs","hourly_rate":"55.19"}
+,{"department":"Fire Department","last_name":"May","first_name":"Kristin","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Knox","first_name":"Anthony","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.76"}
+,{"department":"Fire Department","last_name":"McGee","first_name":"Corey","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Dennis","first_name":"Benjamin","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"45.12"}
+,{"department":"Fire Department","last_name":"OMoore","first_name":"Patrick","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Anderson","first_name":"Randy","job_title":"Fireftr-90.46 Hrs","hourly_rate":"39.02"}
+,{"department":"Fire Department","last_name":"Beer","first_name":"Adrian","job_title":"Fireftr-90.46 Hrs","hourly_rate":"38.28"}
+,{"department":"Fire Department","last_name":"Miner","first_name":"Todd","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"43.46"}
+,{"department":"Fire Department","last_name":"Castro","first_name":"Timothy","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"40.87"}
+,{"department":"Fire Department","last_name":"Smith","first_name":"Bryan","job_title":"Fireftr-ParamedTechSr-90.46","hourly_rate":"49.37"}
+,{"department":"Fire Department","last_name":"Johnson","first_name":"Rachel","job_title":"Fireftr-Paramed Tech-90.46 Hrs","hourly_rate":"48.82"}
+,{"department":"Fire Department","last_name":"Olswang","first_name":"Harrison","job_title":"Fireftr-Paramed Tech-90.46 Hrs","hourly_rate":"46.05"}
+,{"department":"Fire Department","last_name":"Melkers","first_name":"Paul","job_title":"Fireftr-Paramed Tech-90.46 Hrs","hourly_rate":"48.82"}
+,{"department":"Fire Department","last_name":"Richards","first_name":"James","job_title":"Fireftr-Paramed Tech-90.46 Hrs","hourly_rate":"47.9"}
+,{"department":"Fire Department","last_name":"Janet","first_name":"Tod","job_title":"Fireftr-Ap Drvr-90.46","hourly_rate":"44.38"}
+,{"department":"Fire Department","last_name":"Foucht","first_name":"Regina","job_title":"Fireftr-Dispatcher-84 Hrs","hourly_rate":"50.38"}
+,{"department":"Fire Department","last_name":"Scott","first_name":"Robert","job_title":"Fireftr-Dispatcher-84 Hrs","hourly_rate":"49.58"}
+,{"department":"Fire Department","last_name":"Viall","first_name":"Margie","job_title":"StratAdvsr1,Fin,Bud,&Actg","hourly_rate":"57.09"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Lane","first_name":"Bobby","job_title":"Accountant,Sr","hourly_rate":"41.06"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Krueger","first_name":"Heather","job_title":"Manager3,Exempt","hourly_rate":"63.561"}
+,{"department":"Seattle Dept of Human Resource","last_name":"Freiboth","first_name":"Renee","job_title":"Manager3,General Govt","hourly_rate":"63.561"}
+,{"department":"Human Services Department","last_name":"Andrews","first_name":"Elizabeth","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Tsai","first_name":"Winnie","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Derramas","first_name":"Antonia","job_title":"Trng&Ed Coord","hourly_rate":"36.13"}
+,{"department":"Human Services Department","last_name":"White","first_name":"Jennifer","job_title":"Counslr","hourly_rate":"30.39"}
+,{"department":"Human Services Department","last_name":"Ahmed","first_name":"Osman","job_title":"Counslr","hourly_rate":"34.07"}
+,{"department":"Human Services Department","last_name":"Neal","first_name":"Shawn","job_title":"Counslr","hourly_rate":"32.81"}
+,{"department":"Human Services Department","last_name":"Waschke","first_name":"Gretchen","job_title":"Counslr","hourly_rate":"32.81"}
+,{"department":"Human Services Department","last_name":"Tadesse","first_name":"Daniel","job_title":"Accountant,Sr","hourly_rate":"41.06"}
+,{"department":"Human Services Department","last_name":"Isla","first_name":"Alicia","job_title":"Fin Anlyst,Asst","hourly_rate":"33.3"}
+,{"department":"Human Services Department","last_name":"Colby","first_name":"Marian","job_title":"StratAdvsr3,Exempt","hourly_rate":"68.11"}
+,{"department":"Human Services Department","last_name":"Blair","first_name":"Tonya","job_title":"Prgm Intake Rep","hourly_rate":"31.04"}
+,{"department":"Human Services Department","last_name":"Meyer","first_name":"Henry","job_title":"Human Svcs Coord,Asst","hourly_rate":"29.29"}
+,{"department":"Human Services Department","last_name":"Stewart","first_name":"Leslie","job_title":"Grants&Contracts Spec,Sr","hourly_rate":"36.92"}
+,{"department":"Human Services Department","last_name":"Gibson","first_name":"Erin","job_title":"Social Svcs Aide *","hourly_rate":"20.91"}
+,{"department":"Human Services Department","last_name":"Alsawadi","first_name":"Jennifer","job_title":"Manager2,Human Svcs","hourly_rate":"46.23"}
+,{"department":"Construction & Inspections","last_name":"Ghan","first_name":"Christina","job_title":"Plng&Dev Spec,Sr","hourly_rate":"46.35"}
+,{"department":"Construction & Inspections","last_name":"Norwood","first_name":"Qiana","job_title":"Permit Tech Supv","hourly_rate":"36.13"}
+,{"department":"Construction & Inspections","last_name":"Mills","first_name":"Kanika","job_title":"Housing/Zoning Tech","hourly_rate":"28.11"}
+,{"department":"Construction & Inspections","last_name":"Tallent","first_name":"Geoffrey","job_title":"Manager3,General Govt","hourly_rate":"61.188"}
+,{"department":"Construction & Inspections","last_name":"Montoya","first_name":"Rick","job_title":"Elecl Insp,Sr/EleclPlnExmExp","hourly_rate":"48.04"}
+,{"department":"Construction & Inspections","last_name":"McCoy","first_name":"Sajada","job_title":"Permit Spec Supv","hourly_rate":"42.06"}
+,{"department":"Construction & Inspections","last_name":"Harris","first_name":"Jess","job_title":"StratAdvsr2,Engrng&Plans Rev","hourly_rate":"53.22"}
+,{"department":"Construction & Inspections","last_name":"Pellinger","first_name":"Clara Elena","job_title":"Permit Spec II","hourly_rate":"38.98"}
+,{"department":"Construction & Inspections","last_name":"Boeholt","first_name":"Nathalie","job_title":"Strucl Plans Engr","hourly_rate":"52.74"}
+,{"department":"Construction & Inspections","last_name":"Buttry","first_name":"Corey","job_title":"Land Use Plnr II","hourly_rate":"40.34"}
+,{"department":"Construction & Inspections","last_name":"Torres","first_name":"Crystal","job_title":"Land Use Plnr III","hourly_rate":"47.04"}
+,{"department":"Construction & Inspections","last_name":"Beza","first_name":"Joanna","job_title":"Permit Spec II","hourly_rate":"36.13"}
+,{"department":"Construction & Inspections","last_name":"Edwards","first_name":"Darlene","job_title":"Executive2","hourly_rate":"68.3"}
+,{"department":"Office of Economic Development","last_name":"Luu","first_name":"Suching","job_title":"Fin Anlyst,Sr","hourly_rate":"46.13"}
+,{"department":"Office of Economic Development","last_name":"Gourevitch","first_name":"Alexandra","job_title":"StratAdvsr2,Exempt","hourly_rate":"50.05"}
+,{"department":"Education & Early Learning","last_name":"Harrison","first_name":"Dana","job_title":"StratAdvsr2,Exempt","hourly_rate":"59.25"}
+,{"department":"Education & Early Learning","last_name":"Hang","first_name":"Bick","job_title":"Early Ed Spec,Sr","hourly_rate":"41.26"}
+,{"department":"Education & Early Learning","last_name":"Wolfe","first_name":"Timothy","job_title":"Executive1","hourly_rate":"62"}
+,{"department":"Information Technology","last_name":"Nowlin","first_name":"Michael","job_title":"StratAdvsr2,Info Technol","hourly_rate":"53"}
+,{"department":"Information Technology","last_name":"Baden","first_name":"Tobias","job_title":"Manager2,Info Technol","hourly_rate":"61.891"}
+,{"department":"Information Technology","last_name":"Folsom","first_name":"Richard","job_title":"Info Technol Prof A,Exempt","hourly_rate":"64.74"}
+,{"department":"Information Technology","last_name":"Doke","first_name":"John","job_title":"Info Technol Prof B-BU","hourly_rate":"55.559"}
+,{"department":"Information Technology","last_name":"Armocido","first_name":"Samuel","job_title":"Info Technol Prof B-BU","hourly_rate":"55.856"}
+,{"department":"Information Technology","last_name":"Few","first_name":"Jason","job_title":"Info Technol Prof C-BU *","hourly_rate":"37.44"}
+,{"department":"Information Technology","last_name":"Altier","first_name":"Logan","job_title":"Info Technol Prof B-BU","hourly_rate":"56.16"}
+,{"department":"Information Technology","last_name":"Potharaju","first_name":"Deepti","job_title":"Info Technol Prof B-BU","hourly_rate":"54.6"}
+,{"department":"Information Technology","last_name":"Sethuraman","first_name":"Mahalakshmi","job_title":"Info Technol Prof B-BU","hourly_rate":"61.097"}
+,{"department":"Information Technology","last_name":"Theodorson","first_name":"Sherilyn","job_title":"Info Technol Prof B-BU","hourly_rate":"54.08"}
+,{"department":"Information Technology","last_name":"Nguyen","first_name":"Tuyet-Phuong","job_title":"Info Technol Prof B-BU","hourly_rate":"56.873"}
+,{"department":"Information Technology","last_name":"Balbuena","first_name":"Ivan","job_title":"Info Technol Prof A,Exempt","hourly_rate":"67.161"}
+,{"department":"Information Technology","last_name":"Hnasko","first_name":"Patricia","job_title":"Info Technol Prof B-BU","hourly_rate":"54.128"}
+,{"department":"Information Technology","last_name":"Quach","first_name":"Loan","job_title":"Info Technol Prof B-BU","hourly_rate":"59.127"}
+,{"department":"Information Technology","last_name":"Kalstad","first_name":"Elise","job_title":"StratAdvsr2,General Govt","hourly_rate":"57"}
+,{"department":"Information Technology","last_name":"Taylor","first_name":"Timothy","job_title":"StratAdvsr2,Info Technol","hourly_rate":"57"}
+,{"department":"Information Technology","last_name":"Peterson","first_name":"Carol","job_title":"Info Technol Prof A,Exempt","hourly_rate":"64.956"}
+,{"department":"Information Technology","last_name":"Keegan","first_name":"Parker","job_title":"StratAdvsr2,Info Technol","hourly_rate":"57.5"}
+,{"department":"Information Technology","last_name":"Johnson","first_name":"Charlotte","job_title":"Info Technol Prof A,Exempt","hourly_rate":"64.48"}
+,{"department":"Information Technology","last_name":"Weitz","first_name":"Katherine","job_title":"StratAdvsr2 *","hourly_rate":"50"}
+,{"department":"Information Technology","last_name":"Taylor","first_name":"Dianne","job_title":"StratAdvsr2 *","hourly_rate":"45.5"}
+,{"department":"Information Technology","last_name":"Hammon","first_name":"Lajwan","job_title":"Personnel Spec","hourly_rate":"33.45"}
+,{"department":"Information Technology","last_name":"Wolfe","first_name":"Mabel","job_title":"Exec Asst,Sr","hourly_rate":"46.35"}
+,{"department":"Legislative Department","last_name":"Smith","first_name":"Ian","job_title":"StratAdvsr-Legislative","hourly_rate":"58.2811"}
+,{"department":"Legislative Department","last_name":"Berliner","first_name":"Brenn","job_title":"StratAdvsr-Legislative","hourly_rate":"44.2888"}
+,{"department":"Legislative Department","last_name":"Daniels","first_name":"Leslie","job_title":"Legislative Asst","hourly_rate":"34"}
+,{"department":"Mayor's Office","last_name":"Bronson","first_name":"Angela","job_title":"Mayoral Staff Asst 2","hourly_rate":"41.77"}
+,{"department":"Mayor's Office","last_name":"Moseley","first_name":"David","job_title":"Executive4","hourly_rate":"86.825"}
+,{"department":"Mayor's Office","last_name":"Canceko","first_name":"Lyle","job_title":"Mayoral Staff Asst 2","hourly_rate":"50.4618"}
+,{"department":"Seattle Public Utilities","last_name":"Meyer","first_name":"Elizabeth","job_title":"StratAdvsr3,Exempt","hourly_rate":"68.1"}
+,{"department":"Seattle Public Utilities","last_name":"Fong","first_name":"Rebecca","job_title":"Plng&Dev Spec,Sr","hourly_rate":"48.09"}
+,{"department":"Seattle Public Utilities","last_name":"Ransley","first_name":"Lynda","job_title":"Executive2","hourly_rate":"70.616"}
+,{"department":"Seattle Public Utilities","last_name":"Miller","first_name":"Jason","job_title":"Envrnmtl Anlyst,Assoc","hourly_rate":"40.34"}
+,{"department":"Seattle Public Utilities","last_name":"Cao","first_name":"My-Trang","job_title":"Scale Attendant","hourly_rate":"25.4"}
+,{"department":"Seattle Public Utilities","last_name":"Anderson","first_name":"Martin","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Munger","first_name":"Julia","job_title":"Envrnmtl Anlyst,Sr","hourly_rate":"44.42"}
+,{"department":"Seattle Public Utilities","last_name":"Chittick","first_name":"Andrew","job_title":"Envrnmtl Anlyst,Assoc *","hourly_rate":"38.89"}
+,{"department":"Seattle Public Utilities","last_name":"Kirby","first_name":"Brien","job_title":"Wtr Laboratory Tech","hourly_rate":"26.85"}
+,{"department":"Seattle Public Utilities","last_name":"Harper","first_name":"Wylie","job_title":"Executive2","hourly_rate":"73.651"}
+,{"department":"Seattle Public Utilities","last_name":"Jackson","first_name":"Charles","job_title":"Manager3,Utils","hourly_rate":"62.44"}
+,{"department":"Seattle Public Utilities","last_name":"Harris","first_name":"Marrion","job_title":"Wtr Pipe Wkr","hourly_rate":"33.66"}
+,{"department":"Seattle Public Utilities","last_name":"Judge","first_name":"Carlos","job_title":"Wtr Pipe Wkr","hourly_rate":"33.66"}
+,{"department":"Seattle Public Utilities","last_name":"Bernardez","first_name":"Lisa","job_title":"Truck Drvr,Heavy","hourly_rate":"32.35"}
+,{"department":"Seattle Public Utilities","last_name":"Johnson","first_name":"Gregory","job_title":"Wtr Pipe Wkr Sr-WDM II","hourly_rate":"37.53"}
+,{"department":"Seattle Public Utilities","last_name":"Freeman","first_name":"Michael","job_title":"Wtr Pipe Wkr Sr-WDM II","hourly_rate":"37.53"}
+,{"department":"Seattle Public Utilities","last_name":"Garcia","first_name":"Gerardo","job_title":"Wtr Pipe CC-WDM II","hourly_rate":"43.26"}
+,{"department":"Seattle Public Utilities","last_name":"Werner","first_name":"Joshua","job_title":"Manager3,Utils","hourly_rate":"58.4"}
+,{"department":"Seattle Public Utilities","last_name":"Smith","first_name":"Colin","job_title":"Wtr Pipe Wkr,Sr","hourly_rate":"36.11"}
+,{"department":"Seattle Public Utilities","last_name":"Anderson","first_name":"Jophet","job_title":"Wtr Pipe Wkr","hourly_rate":"33.66"}
+,{"department":"Seattle Public Utilities","last_name":"Volpone","first_name":"James","job_title":"Wtr Pipe CC-WDM II","hourly_rate":"43.26"}
+,{"department":"Seattle Public Utilities","last_name":"Sirbu","first_name":"Gheorghe","job_title":"Stat Maint Mach *","hourly_rate":"35.26"}
+,{"department":"Seattle Public Utilities","last_name":"McCarthy","first_name":"Timothy","job_title":"Pntr","hourly_rate":"33.78"}
+,{"department":"Seattle Public Utilities","last_name":"Stricklin","first_name":"Kermit","job_title":"Pmp Stat Maint Lead Wkr CII","hourly_rate":"31.98"}
+,{"department":"Seattle Public Utilities","last_name":"Werner","first_name":"Aaron","job_title":"Civil Engr,Sr","hourly_rate":"56.37"}
+,{"department":"Seattle Public Utilities","last_name":"Thorberg","first_name":"Eric","job_title":"Civil Engr,Sr","hourly_rate":"56.37"}
+,{"department":"Seattle Public Utilities","last_name":"Law","first_name":"Steven","job_title":"Civil Engrng Spec,Asst III","hourly_rate":"40.76"}
+,{"department":"Seattle Public Utilities","last_name":"Robinson","first_name":"Taharra","job_title":"Civil Engrng Spec,Asst III","hourly_rate":"40.76"}
+,{"department":"Seattle Public Utilities","last_name":"Liston-Riggs","first_name":"Rosalind","job_title":"Civil Engr,Assoc","hourly_rate":"47.18"}
+,{"department":"Seattle Public Utilities","last_name":"Neal","first_name":"Jolanda","job_title":"Civil Engr,Assoc","hourly_rate":"47.18"}
+,{"department":"Seattle Public Utilities","last_name":"Payne","first_name":"Pamela","job_title":"Mgmt Systs Anlyst,Sr","hourly_rate":"44.57"}
+,{"department":"Seattle Public Utilities","last_name":"Combs","first_name":"Laurie","job_title":"Util Act Rep I","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Nuezca","first_name":"Raquel","job_title":"Util Act Rep I","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Robinson","first_name":"Shelby","job_title":"Util Act Rep I","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Siale","first_name":"Sioeli","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Seattle Public Utilities","last_name":"Thompson","first_name":"Fay","job_title":"Meter Reader","hourly_rate":"26.9"}
+,{"department":"Seattle Public Utilities","last_name":"Woods","first_name":"Rochelle","job_title":"Opns Response Cntr Op","hourly_rate":"31"}
+,{"department":"Seattle Public Utilities","last_name":"Randeberg","first_name":"Doug","job_title":"Warehouser,Sr-BU","hourly_rate":"29.56"}
+,{"department":"Seattle Public Utilities","last_name":"Ellermeier","first_name":"Patricia","job_title":"Manager3,Fin,Bud,&Actg","hourly_rate":"65.298"}
+,{"department":"Seattle Public Utilities","last_name":"Coe","first_name":"Maria","job_title":"Manager3,Fin,Bud,&Actg","hourly_rate":"60.527"}
+,{"department":"Seattle Public Utilities","last_name":"Manantan","first_name":"Merlita","job_title":"Accountant,Sr","hourly_rate":"41.06"}
+,{"department":"Seattle Public Utilities","last_name":"Welborn","first_name":"Helen","job_title":"StratAdvsr2,Utils","hourly_rate":"53.941"}
+,{"department":"Seattle Public Utilities","last_name":"Li","first_name":"Lilin","job_title":"StratAdvsr2,Utils","hourly_rate":"62.259"}
+,{"department":"Seattle Public Utilities","last_name":"Saffery","first_name":"Susan","job_title":"StratAdvsr3,Exempt","hourly_rate":"68.11"}
+,{"department":"Seattle Public Utilities","last_name":"Paine-Donovan","first_name":"Robert","job_title":"Mgmt Systs Anlyst,Sr *","hourly_rate":"48.09"}
+,{"department":"Seattle Public Utilities","last_name":"King","first_name":"Emily","job_title":"Publc Relations Spec,Sr","hourly_rate":"37.59"}
+,{"department":"Seattle Public Utilities","last_name":"Shapiro","first_name":"Sheryl","job_title":"Plng&Dev Spec,Supvsng","hourly_rate":"49.91"}
+,{"department":"Seattle Public Utilities","last_name":"Hendrickson","first_name":"Kimberly","job_title":"Util Svc Rep","hourly_rate":"35.78"}
+,{"department":"Seattle Public Utilities","last_name":"Fincher","first_name":"Veronica","job_title":"Plng&Dev Spec,Sr","hourly_rate":"48.09"}
+,{"department":"Seattle Public Utilities","last_name":"Hill","first_name":"Melissa","job_title":"Prjt Fund&Agreemts Coord,Sr","hourly_rate":"44.57"}
+,{"department":"Seattle Public Utilities","last_name":"Johnson","first_name":"Jennifer","job_title":"Admin Spec III","hourly_rate":"29.29"}
+,{"department":"Seattle Public Utilities","last_name":"Lust","first_name":"Erik","job_title":"Manager1,Utils","hourly_rate":"48.293"}
+,{"department":"Seattle Public Utilities","last_name":"McDonald","first_name":"Timothy","job_title":"Civil Engrng Spec,Assoc","hourly_rate":"44.51"}
+,{"department":"Seattle Public Utilities","last_name":"Wilkerson","first_name":"Christopher","job_title":"Civil Engrng Spec,Assoc","hourly_rate":"44.51"}
+,{"department":"Seattle Public Utilities","last_name":"Gomez","first_name":"Humberto","job_title":"Drainage&Wstwtr Lead Wkr CII","hourly_rate":"35.16"}
+,{"department":"Seattle Public Utilities","last_name":"Caoile","first_name":"Mario","job_title":"Drainage&Wstwtr Coll CC","hourly_rate":"40.96"}
+,{"department":"Seattle Public Utilities","last_name":"Vicente","first_name":"James","job_title":"Drainage&Wstwtr Coll Wkr","hourly_rate":"30.74"}
+,{"department":"Seattle City Light","last_name":"Biava","first_name":"Ryan","job_title":"StratAdvsr3-BU *","hourly_rate":"63.81"}
+,{"department":"Seattle City Light","last_name":"Asfaw","first_name":"Million","job_title":"Elecl Engr,Asst III","hourly_rate":"43.14"}
+,{"department":"Seattle City Light","last_name":"Jefferson","first_name":"Genie","job_title":"Exec Asst","hourly_rate":"48.09"}
+,{"department":"Seattle City Light","last_name":"Tesfamichael","first_name":"Yonas","job_title":"Elecl Engr,Assoc","hourly_rate":"45.45"}
+,{"department":"Seattle City Light","last_name":"Louie","first_name":"Shirley","job_title":"Admin Spec II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle City Light","last_name":"Gordon","first_name":"Robert","job_title":"Mech Engr,Sr","hourly_rate":"58.53"}
+,{"department":"Seattle City Light","last_name":"Nelson","first_name":"Thomas","job_title":"Generation Supv","hourly_rate":"60.91"}
+,{"department":"Seattle City Light","last_name":"Campbell","first_name":"Jared","job_title":"Hydro Maint Wkr II-Gen","hourly_rate":"37.83"}
+,{"department":"Seattle City Light","last_name":"Moser","first_name":"Adam","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Andersen","first_name":"William","job_title":"Executive2","hourly_rate":"66.5559"}
+,{"department":"Seattle City Light","last_name":"Kelley","first_name":"Joshua","job_title":"Elctn-Con Aprn","hourly_rate":"41.8"}
+,{"department":"Seattle City Light","last_name":"Smith","first_name":"Justin","job_title":"Accountant","hourly_rate":"30.65"}
+,{"department":"Seattle City Light","last_name":"Luong","first_name":"Cindy","job_title":"Cooperative Intern *","hourly_rate":"16.56"}
+,{"department":"Seattle City Light","last_name":"Price","first_name":"Reagen","job_title":"StratAdvsr2,Utils-BU","hourly_rate":"48.8742"}
+,{"department":"Seattle City Light","last_name":"Lam","first_name":"Chi Cheung","job_title":"Info Technol Prof A,Exempt","hourly_rate":"59.0408"}
+,{"department":"Seattle City Light","last_name":"Mahoney","first_name":"Robert","job_title":"Info Technol Prof A,Exempt","hourly_rate":"66.3624"}
+,{"department":"Seattle City Light","last_name":"Sablan","first_name":"Shannette","job_title":"Elctn-Con Aprn","hourly_rate":"41.8"}
+,{"department":"Seattle City Light","last_name":"Kiefel","first_name":"Joseph","job_title":"Elctn-Con-Wkg CC","hourly_rate":"56.66"}
+,{"department":"Seattle City Light","last_name":"Jenson Jr.","first_name":"Mark","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Saewong","first_name":"Mark","job_title":"Elctn-Con Aprn","hourly_rate":"38.78"}
+,{"department":"Seattle City Light","last_name":"Pieper","first_name":"Van","job_title":"Elctn-Con Aprn","hourly_rate":"41.8"}
+,{"department":"Seattle City Light","last_name":"Henry","first_name":"Duane","job_title":"Cblspl Aprn","hourly_rate":"38.78"}
+,{"department":"Seattle City Light","last_name":"Mims","first_name":"Damian","job_title":"Cblspl CC-Net Area","hourly_rate":"56.66"}
+,{"department":"Seattle City Light","last_name":"Goings","first_name":"Gabriel","job_title":"Truck Drvr,Heavy","hourly_rate":"31.08"}
+,{"department":"Seattle City Light","last_name":"Kostenko","first_name":"Brian","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"DeGarmo","first_name":"Christopher","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Reid","first_name":"Joshua","job_title":"Mat Suplr-Asg Leo/Pdm/Hb","hourly_rate":"45.51"}
+,{"department":"Seattle City Light","last_name":"Schoeneman","first_name":"Ryan","job_title":"Lnwkr Aprn","hourly_rate":"44.09"}
+,{"department":"Seattle City Light","last_name":"Kleebauer","first_name":"Michael","job_title":"Line C CC","hourly_rate":"58.36"}
+,{"department":"Seattle City Light","last_name":"Benson","first_name":"Evan","job_title":"Comms Elctn II","hourly_rate":"50.12"}
+,{"department":"Seattle City Light","last_name":"Nelson","first_name":"Steven","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Trotter","first_name":"Jason","job_title":"Line C CC","hourly_rate":"58.36"}
+,{"department":"Seattle City Light","last_name":"Leonard","first_name":"Marty","job_title":"Lnwkr","hourly_rate":"51.87"}
+,{"department":"Seattle City Light","last_name":"Elliott","first_name":"Charles","job_title":"Elctn-Con","hourly_rate":"50.36"}
+,{"department":"Seattle City Light","last_name":"Tressler","first_name":"Ronald","job_title":"StratAdvsr2,Utils-BU","hourly_rate":"56.764"}
+,{"department":"Seattle City Light","last_name":"Purcell","first_name":"Cierra","job_title":"StratAdvsr1,Utils-BU","hourly_rate":"54.0919"}
+,{"department":"Seattle City Light","last_name":"Turner","first_name":"Derek","job_title":"Maint Laborer","hourly_rate":"26.09"}
+,{"department":"Seattle City Light","last_name":"Temple","first_name":"Cynthia","job_title":"Actg Tech II-BU","hourly_rate":"27.18"}
+,{"department":"Seattle City Light","last_name":"Johnson","first_name":"Kimberly","job_title":"Cust Svc Rep","hourly_rate":"27.49"}
+,{"department":"Seattle City Light","last_name":"Benson","first_name":"Catherine","job_title":"Actg Tech III-BU","hourly_rate":"27.63"}
+,{"department":"Seattle City Light","last_name":"Johnson","first_name":"Wendy","job_title":"StratAdvsr1,Utils","hourly_rate":"40.06"}
+,{"department":"Seattle City Light","last_name":"Hunter","first_name":"Erin","job_title":"Elecl Svc Rep","hourly_rate":"36.79"}
+,{"department":"Planning & Comm Development","last_name":"Serna","first_name":"Bernardo","job_title":"Publc Relations Spec","hourly_rate":"32.17"}
+,{"department":"Planning & Comm Development","last_name":"Hogness","first_name":"Magdalena","job_title":"StratAdvsr1,Exempt","hourly_rate":"49"}
+,{"department":"Parks & Recreation","last_name":"Lynn","first_name":"Roy","job_title":"Work Trng Enrollee *","hourly_rate":"16"}
+,{"department":"Parks & Recreation","last_name":"Harris Jr","first_name":"Dewitt","job_title":"Trng&Ed Coord,Asst","hourly_rate":"29.89"}
+,{"department":"Parks & Recreation","last_name":"Robinson","first_name":"Timothy","job_title":"Constr&Repair CC","hourly_rate":"37.23"}
+,{"department":"Parks & Recreation","last_name":"Schuler","first_name":"Kristen","job_title":"Mgmt Systs Anlyst,Asst","hourly_rate":"32.81"}
+,{"department":"Parks & Recreation","last_name":"Martin","first_name":"Catherine","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Kenny","first_name":"Kirsten","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Swisshelm","first_name":"Iris","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Atwood","first_name":"Penny","job_title":"Rec Leader","hourly_rate":"28.91"}
+,{"department":"Parks & Recreation","last_name":"Taylor","first_name":"Brittany","job_title":"Rec Attendant","hourly_rate":"17.03"}
+,{"department":"Parks & Recreation","last_name":"Aamot","first_name":"Allison","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Hillman","first_name":"Lawrence","job_title":"Rec Attendant *","hourly_rate":"16.11"}
+,{"department":"Parks & Recreation","last_name":"Johnson","first_name":"Adam","job_title":"Rec Prgm Spec","hourly_rate":"29.89"}
+,{"department":"Parks & Recreation","last_name":"McDonald","first_name":"Lola","job_title":"Rec Leader *","hourly_rate":"18"}
+,{"department":"Parks & Recreation","last_name":"Whitman","first_name":"Andrew","job_title":"Cashier","hourly_rate":"18.6"}
+,{"department":"Parks & Recreation","last_name":"Westhusing","first_name":"Lucy","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Nishida","first_name":"Kenji","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Pippin","first_name":"Sheila","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Feldman","first_name":"Craig","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Booze","first_name":"Elena","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Wily","first_name":"Malia","job_title":"Cashier *","hourly_rate":"16.73"}
+,{"department":"Parks & Recreation","last_name":"Villarroel","first_name":"Kristjan","job_title":"Cashier *","hourly_rate":"16.73"}
+,{"department":"Parks & Recreation","last_name":"Chuang","first_name":"Elaine","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Ehrman","first_name":"Jonathan","job_title":"Cashier","hourly_rate":"17.24"}
+,{"department":"Parks & Recreation","last_name":"Burnham","first_name":"Aaron","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Murray","first_name":"Owen","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Moss","first_name":"Mitchell","job_title":"Lifeguard *","hourly_rate":"16.92"}
+,{"department":"Parks & Recreation","last_name":"Martin","first_name":"Andre","job_title":"Laborer","hourly_rate":"23.58"}]
