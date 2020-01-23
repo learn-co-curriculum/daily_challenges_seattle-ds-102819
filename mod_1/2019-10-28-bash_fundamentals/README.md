@@ -15,7 +15,7 @@ Hello! Welcome to a quick challenge regarding bash fundamentals:
          + Re-run `sh lyrics.sh`
          + _Hint: run the command `tree` from your project directory and visually inspect the structure of the directory_
 
-**2. Create a file called `steps.txt`, and, for each bash command that you run below, add a copy of that command to `steps.txt`.**
+**2. Create a notebook called `steps.ipynb`, and, for each bash command that you run below, add a copy of that command to `steps.ipynb`.**
 
 3. Locate `not_lyrics.sh`, copy it into the project directory, and rename it to `other_lyrics.sh`.
 
